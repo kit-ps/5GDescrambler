@@ -1,0 +1,16 @@
+[package]
+name = "bit_types"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+bytemuck = { version = "1.25", features = ["derive", "min_const_generics"] }
+
+[dev-dependencies]
+criterion = { version = "0.8", features = ["html_reports"] }
+bit_macros = { path = "../bit_macros" }
+rand = "0.10.0"
+
+[[bench]]
+name = "operations"
+harness = false

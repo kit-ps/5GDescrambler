@@ -1,0 +1,18 @@
+NR-PDCCH-DCI-Definitions {
+    ts38212 (38212) major-version (17) minor-version (1)
+}
+
+DEFINITIONS AUTOMATIC TAGS ::=
+
+BEGIN
+
+DCI-1-0-SI-RNTI ::=            SEQUENCE {
+    timeDomainResourceAssignment        INTEGER (0..15),
+    vrbToPrbMapping                     ENUMERATED {nonInterleaved, interleaved},
+    modulationAndCodingScheme           INTEGER (0..31),
+    redundancyVersion                   INTEGER (0..3),
+    systemInformationIndicator          ENUMERATED {sib1, siMessages},
+    spare                               BIT STRING (SIZE (15))
+}
+
+END

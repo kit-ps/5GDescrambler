@@ -1,0 +1,18 @@
+{
+  "false_positives": 0,
+  "false_negatives": 0,
+  "true_positives": 3994,
+  "true_negative_shared_last_bit": 32,
+  "true_negative_shared_decode": 0,
+  "true_negative_ue_specific_decode": 0,
+  "shared_reference_count": 86,
+  "ue_specific_reference_count": 3940,
+  "shared_decoded_count": 86,
+  "ue_specific_decoded_count": 3940,
+  "config_match": true,
+  "avg_snr_db": 13.639131000000003,
+  "waveform_nanos": 4980000000,
+  "active_group_nanos": 353287431,
+  "candidate_decode_nanos": 974378014,
+  "candidate_find_nanos": 3401701310
+}

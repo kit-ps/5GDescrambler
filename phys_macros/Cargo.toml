@@ -1,0 +1,11 @@
+[package]
+name = "phys_macros"
+version = "0.1.0"
+edition = "2024"
+
+[lib]
+proc-macro = true
+
+[dependencies]
+rustfft = "6.4.0"
+three_gpp = { path = "../three_gpp" }

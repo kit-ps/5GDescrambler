@@ -1,0 +1,4 @@
+*.md
+*.tex
+plots/*.svg
+plots/*.pdf

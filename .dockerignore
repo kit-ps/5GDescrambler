@@ -1,0 +1,12 @@
+target/
+evaluation/
+descrambler/samples/
+asn/gen/*.rs
+pdcch/gen/*.bin
+.git/
+.github/
+.gitignore
+doc
+*.md
+Dockerfile
+start_docker.sh

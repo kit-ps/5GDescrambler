@@ -1,0 +1,33 @@
+[package]
+name = "pdcch"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+three_gpp = { path = "../three_gpp" }
+bit_macros = { path = "../bit_macros" }
+bit_types = { path = "../bit_types" }
+pdcch_macros = { path = "../pdcch_macros" }
+bytemuck = { version = "1.25", features = ["derive"] }
+zstd = "0.13"
+
+[build-dependencies]
+three_gpp = { path = "../three_gpp" }
+bit_macros = { path = "../bit_macros" }
+bit_types = { path = "../bit_types" }
+pdcch_macros = { path = "../pdcch_macros" }
+bytemuck = { version = "1.25", features = ["derive"] }
+zstd = "0.13"
+
+[dev-dependencies]
+criterion = { version = "0.8", features = ["html_reports"] }
+rand = "0.10.0"
+rand_chacha = "0.10.0-rc.1"
+
+[features]
+debug_decode = []
+default = []
+
+[[bench]]
+name = "pdcch"
+harness = false

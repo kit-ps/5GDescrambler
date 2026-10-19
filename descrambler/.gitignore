@@ -1,0 +1,6 @@
+*.fc32
+*.cs16
+*.sigmf-collection
+*.sigmf-meta
+*.sigmf-data
+*.pcap

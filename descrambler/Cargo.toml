@@ -1,0 +1,45 @@
+[package]
+name = "descrambler"
+version = "1.0.0"
+edition = "2024"
+description = "A command line utility to perform 5G DCI scrambling related computations"
+
+[dependencies]
+clap = { version = "4.5", features = ["derive"] }
+clap_complete = "4"
+tokio = { version = "1.53", features = ["macros", "rt-multi-thread", "signal", "time"] }
+indicatif = "0.18"
+num-traits = "0.2"
+serde = { version = "1.0", features = ["derive"] }
+serde_json = "1.0"
+phys = { path = "../phys" }
+asn = { path = "../asn" }
+pdcch = { path = "../pdcch" }
+descrambler_macros = { path = "../descrambler_macros" }
+soapysdr = { version = "0.5.1", optional = true }
+num-complex = "0.4"
+signalbool = "0.2.5"
+colored = "3.0.0"
+mimalloc = "0.1"
+sha2 = "0.11.0-rc.5"
+rasn = "0.28"
+tappers = { version = "0.4", optional = true }
+crc32fast = "1.5"
+rand = "0.10"
+rand_distr = "0.6.0"
+rand_chacha = "0.10"
+shell-words = "1.1.1"
+
+[target.'cfg(unix)'.dependencies]
+libc = "1.0.0-alpha.3"
+
+[target.'cfg(windows)'.dependencies]
+windows = "0.62"
+
+
+[features]
+default = ["sdr", "tuntap", "pipeline_trace", "pipeline_debug"]
+sdr = ["phys/sdr", "soapysdr"]
+tuntap = ["tappers"]
+pipeline_trace = ["phys/pipeline_trace"]
+pipeline_debug = ["phys/pipeline_debug"]

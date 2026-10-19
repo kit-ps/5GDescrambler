@@ -1,0 +1,24 @@
+[package]
+name = "ldpc"
+description = "(Reduced) utilities to aid in LDPC code design"
+version = "0.12.0"
+readme = "README.md"
+homepage = "https://github.com/daniestevez/ldpc-toolbox"
+repository = "https://github.com/daniestevez/ldpc-toolbox"
+documentation = "https://docs.rs/ldpc-toolbox"
+edition = "2024"
+authors = ["Daniel Estevez <daniel@destevez.net>"]
+license = "MIT OR Apache-2.0"
+keywords = ["ldpc", "fec", "graph"]
+categories = ["mathematics", "science", "simulation"]
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[lib]
+name = "ldpc"
+crate-type = ["lib"]
+
+[dependencies]
+ndarray = "0.17"
+num-traits = "0.2"
+thiserror = "2"

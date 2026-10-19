@@ -1,0 +1,4432 @@
+{
+  "4": {
+    "140": {
+      "-6.5": {
+        "false": {
+          "false_negative": 9995,
+          "false_positive": 0,
+          "true_negative": 10000,
+          "true_positive": 5,
+          "avg_errors": 108.6879,
+          "avg_free": 0.0
+        },
+        "true": {
+          "false_negative": 10000,
+          "false_positive": 0,
+          "true_negative": 10000,
+          "true_positive": 0,
+          "avg_errors": 108.7161,
+          "avg_free": null
+        }
+      },
+      "-14": {
+        "false": {
+          "false_negative": 10000,
+          "false_positive": 0,
+          "true_negative": 10000,
+          "true_positive": 0,
+          "avg_errors": 168.0743,
+          "avg_free": null
+        },
+        "true": {
+          "false_negative": 10000,
+          "false_positive": 0,
+          "true_negative": 10000,
+          "true_positive": 0,
+          "avg_errors": 167.974,
+          "avg_free": null
+        }
+      },
+      "-2.5": {
+        "true": {
+          "false_negative": 9999,
+          "false_positive": 0,
+          "true_negative": 10000,
+          "true_positive": 1,
+          "avg_errors": 62.3422,
+          "avg_free": 0.0
+        },
+        "false": {
+          "false_negative": 43,
+          "false_positive": 0,
+          "true_negative": 10000,
+          "true_positive": 9957,
+          "avg_errors": 62.3596,
+          "avg_free": 0.0
+        }
+      },
+      "-1.5": {
+        "false": {
+          "false_negative": 0,
+          "false_positive": 0,
+          "true_negative": 10000,
+          "true_positive": 10000,
+          "avg_errors": 50.6419,
+          "avg_free": 0.0
+        },
+        "true": {
+          "false_negative": 10000,
+          "false_positive": 0,
+          "true_negative": 10000,
+          "true_positive": 0,
+          "avg_errors": 50.6354,
+          "avg_free": null
+        }
+      },
+      "0.5": {
+        "true": {
+          "false_negative": 10000,
+          "false_positive": 0,
+          "true_negative": 10000,
+          "true_positive": 0,
+          "avg_errors": 28.9787,
+          "avg_free": null
+        },
+        "false": {
+          "false_negative": 0,
+          "false_positive": 0,
+          "true_negative": 10000,
+          "true_positive": 10000,
+          "avg_errors": 29.0198,
+          "avg_free": 0.0
+        }
+      },
+      "-2": {
+        "true": {
+          "false_negative": 10000,
+          "false_positive": 0,
+          "true_negative": 10000,
+          "true_positive": 0,
+          "avg_errors": 56.4102,
+          "avg_free": null
+        },
+        "false": {
+          "false_negative": 7,
+          "false_positive": 0,
+          "true_negative": 10000,
+          "true_positive": 9993,
+          "avg_errors": 56.383,
+          "avg_free": 0.0
+        }
+      },
+      "-3": {
+        "false": {
+          "false_negative": 351,
+          "false_positive": 0,
+          "true_negative": 10000,
+          "true_positive": 9649,
+          "avg_errors": 68.4372,
+          "avg_free": 0.0
+        },
+        "true": {
+          "false_negative": 10000,
+          "false_positive": 0,
+          "true_negative": 10000,
+          "true_positive": 0,
+          "avg_errors": 68.4231,
+          "avg_free": null
+        }
+      },
+      "-5": {
+        "false": {
+          "false_negative": 8826,
+          "false_positive": 0,
+          "true_negative": 10000,
+          "true_positive": 1174,
+          "avg_errors": 92.0672,
+          "avg_free": 0.0
+        },
+        "true": {
+          "false_negative": 10000,
+          "false_positive": 0,
+          "true_negative": 10000,
+          "true_positive": 0,
+          "avg_errors": 92.0765,
+          "avg_free": null
+        }
+      },
+      "-13": {
+        "false": {
+          "false_negative": 10000,
+          "false_positive": 0,
+          "true_negative": 10000,
+          "true_positive": 0,
+          "avg_errors": 162.3886,
+          "avg_free": null
+        },
+        "true": {
+          "false_negative": 10000,
+          "false_positive": 0,
+          "true_negative": 10000,
+          "true_positive": 0,
+          "avg_errors": 162.17,
+          "avg_free": null
+        }
+      },
+      "1": {
+        "true": {
+          "false_negative": 10000,
+          "false_positive": 0,
+          "true_negative": 10000,
+          "true_positive": 0,
+          "avg_errors": 24.2743,
+          "avg_free": null
+        },
+        "false": {
+          "false_negative": 0,
+          "false_positive": 0,
+          "true_negative": 10000,
+          "true_positive": 10000,
+          "avg_errors": 24.2585,
+          "avg_free": 0.0
+        }
+      },
+      "9": {
+        "false": {
+          "false_negative": 0,
+          "false_positive": 0,
+          "true_negative": 10000,
+          "true_positive": 10000,
+          "avg_errors": 0.0148,
+          "avg_free": 0.0
+        },
+        "true": {
+          "false_negative": 10000,
+          "false_positive": 0,
+          "true_negative": 10000,
+          "true_positive": 0,
+          "avg_errors": 0.0142,
+          "avg_free": null
+        }
+      },
+      "-7.5": {
+        "false": {
+          "false_negative": 10000,
+          "false_positive": 0,
+          "true_negative": 10000,
+          "true_positive": 0,
+          "avg_errors": 118.9453,
+          "avg_free": null
+        },
+        "true": {
+          "false_negative": 10000,
+          "false_positive": 0,
+          "true_negative": 10000,
+          "true_positive": 0,
+          "avg_errors": 118.9682,
+          "avg_free": null
+        }
+      },
+      "-7": {
+        "true": {
+          "false_negative": 10000,
+          "false_positive": 0,
+          "true_negative": 10000,
+          "true_positive": 0,
+          "avg_errors": 113.9224,
+          "avg_free": null
+        },
+        "false": {
+          "false_negative": 9999,
+          "false_positive": 0,
+          "true_negative": 10000,
+          "true_positive": 1,
+          "avg_errors": 113.8523,
+          "avg_free": 0.0
+        }
+      },
+      "-18": {
+        "true": {
+          "false_negative": 10000,
+          "false_positive": 0,
+          "true_negative": 10000,
+          "true_positive": 0,
+          "avg_errors": 185.3912,
+          "avg_free": null
+        },
+        "false": {
+          "false_negative": 10000,
+          "false_positive": 0,
+          "true_negative": 10000,
+          "true_positive": 0,
+          "avg_errors": 185.5333,
+          "avg_free": null
+        }
+      },
+      "2.5": {
+        "true": {
+          "false_negative": 10000,
+          "false_positive": 0,
+          "true_negative": 10000,
+          "true_positive": 0,
+          "avg_errors": 12.7825,
+          "avg_free": null
+        },
+        "false": {
+          "false_negative": 0,
+          "false_positive": 0,
+          "true_negative": 10000,
+          "true_positive": 10000,
+          "avg_errors": 12.7914,
+          "avg_free": 0.0
+        }
+      },
+      "10": {
+        "false": {
+          "false_negative": 0,
+          "false_positive": 0,
+          "true_negative": 10000,
+          "true_positive": 10000,
+          "avg_errors": 0.002,
+          "avg_free": 0.0
+        },
+        "true": {
+          "false_negative": 10000,
+          "false_positive": 0,
+          "true_negative": 10000,
+          "true_positive": 0,
+          "avg_errors": 0.0023,
+          "avg_free": null
+        }
+      },
+      "4.5": {
+        "true": {
+          "false_negative": 10000,
+          "false_positive": 0,
+          "true_negative": 10000,
+          "true_positive": 0,
+          "avg_errors": 3.8225,
+          "avg_free": null
+        },
+        "false": {
+          "false_negative": 0,
+          "false_positive": 0,
+          "true_negative": 10000,
+          "true_positive": 10000,
+          "avg_errors": 3.7931,
+          "avg_free": 0.0
+        }
+      },
+      "-20": {
+        "false": {
+          "false_negative": 10000,
+          "false_positive": 0,
+          "true_negative": 10000,
+          "true_positive": 0,
+          "avg_errors": 191.6816,
+          "avg_free": null
+        },
+        "true": {
+          "false_negative": 10000,
+          "false_positive": 0,
+          "true_negative": 10000,
+          "true_positive": 0,
+          "avg_errors": 191.7672,
+          "avg_free": null
+        }
+      },
+      "-11": {
+        "false": {
+          "false_negative": 10000,
+          "false_positive": 0,
+          "true_negative": 10000,
+          "true_positive": 0,
+          "avg_errors": 149.0556,
+          "avg_free": null
+        },
+        "true": {
+          "false_negative": 10000,
+          "false_positive": 0,
+          "true_negative": 10000,
+          "true_positive": 0,
+          "avg_errors": 149.2636,
+          "avg_free": null
+        }
+      },
+      "-19": {
+        "false": {
+          "false_negative": 10000,
+          "false_positive": 0,
+          "true_negative": 10000,
+          "true_positive": 0,
+          "avg_errors": 188.7194,
+          "avg_free": null
+        },
+        "true": {
+          "false_negative": 10000,
+          "false_positive": 0,
+          "true_negative": 10000,
+          "true_positive": 0,
+          "avg_errors": 188.6874,
+          "avg_free": null
+        }
+      },
+      "-5.5": {
+        "false": {
+          "false_negative": 9696,
+          "false_positive": 0,
+          "true_negative": 10000,
+          "true_positive": 304,
+          "avg_errors": 98.0634,
+          "avg_free": 0.0
+        },
+        "true": {
+          "false_negative": 10000,
+          "false_positive": 0,
+          "true_negative": 10000,
+          "true_positive": 0,
+          "avg_errors": 97.8008,
+          "avg_free": null
+        }
+      },
+      "7": {
+        "true": {
+          "false_negative": 10000,
+          "false_positive": 0,
+          "true_negative": 10000,
+          "true_positive": 0,
+          "avg_errors": 0.3352,
+          "avg_free": null
+        },
+        "false": {
+          "false_negative": 0,
+          "false_positive": 0,
+          "true_negative": 10000,
+          "true_positive": 10000,
+          "avg_errors": 0.3269,
+          "avg_free": 0.0
+        }
+      },
+      "-8.5": {
+        "false": {
+          "false_negative": 10000,
+          "false_positive": 0,
+          "true_negative": 10000,
+          "true_positive": 0,
+          "avg_errors": 128.4774,
+          "avg_free": null
+        },
+        "true": {
+          "false_negative": 10000,
+          "false_positive": 0,
+          "true_negative": 10000,
+          "true_positive": 0,
+          "avg_errors": 128.5495,
+          "avg_free": null
+        }
+      },
+      "-3.5": {
+        "false": {
+          "false_negative": 1445,
+          "false_positive": 0,
+          "true_negative": 10000,
+          "true_positive": 8555,
+          "avg_errors": 74.3261,
+          "avg_free": 0.0
+        },
+        "true": {
+          "false_negative": 9998,
+          "false_positive": 0,
+          "true_negative": 10000,
+          "true_positive": 2,
+          "avg_errors": 74.3258,
+          "avg_free": 0.0
+        }
+      },
+      "-12": {
+        "false": {
+          "false_negative": 10000,
+          "false_positive": 0,
+          "true_negative": 10000,
+          "true_positive": 0,
+          "avg_errors": 155.8779,
+          "avg_free": null
+        },
+        "true": {
+          "false_negative": 10000,
+          "false_positive": 0,
+          "true_negative": 10000,
+          "true_positive": 0,
+          "avg_errors": 155.8915,
+          "avg_free": null
+        }
+      },
+      "-0.5": {
+        "true": {
+          "false_negative": 9999,
+          "false_positive": 0,
+          "true_negative": 10000,
+          "true_positive": 1,
+          "avg_errors": 39.3558,
+          "avg_free": 0.0
+        },
+        "false": {
+          "false_negative": 0,
+          "false_positive": 0,
+          "true_negative": 10000,
+          "true_positive": 10000,
+          "avg_errors": 39.2107,
+          "avg_free": 0.0
+        }
+      },
+      "-9": {
+        "false": {
+          "false_negative": 10000,
+          "false_positive": 0,
+          "true_negative": 10000,
+          "true_positive": 0,
+          "avg_errors": 133.1484,
+          "avg_free": null
+        },
+        "true": {
+          "false_negative": 10000,
+          "false_positive": 0,
+          "true_negative": 10000,
+          "true_positive": 0,
+          "avg_errors": 133.0916,
+          "avg_free": null
+        }
+      },
+      "7.5": {
+        "true": {
+          "false_negative": 10000,
+          "false_positive": 0,
+          "true_negative": 10000,
+          "true_positive": 0,
+          "avg_errors": 0.1702,
+          "avg_free": null
+        },
+        "false": {
+          "false_negative": 0,
+          "false_positive": 0,
+          "true_negative": 10000,
+          "true_positive": 10000,
+          "avg_errors": 0.1674,
+          "avg_free": 0.0
+        }
+      },
+      "5.5": {
+        "false": {
+          "false_negative": 0,
+          "false_positive": 0,
+          "true_negative": 10000,
+          "true_positive": 10000,
+          "avg_errors": 1.6746,
+          "avg_free": 0.0
+        },
+        "true": {
+          "false_negative": 9999,
+          "false_positive": 0,
+          "true_negative": 10000,
+          "true_positive": 1,
+          "avg_errors": 1.6863,
+          "avg_free": 0.0
+        }
+      },
+      "6.5": {
+        "false": {
+          "false_negative": 0,
+          "false_positive": 0,
+          "true_negative": 10000,
+          "true_positive": 10000,
+          "avg_errors": 0.6001,
+          "avg_free": 0.0
+        },
+        "true": {
+          "false_negative": 10000,
+          "false_positive": 0,
+          "true_negative": 10000,
+          "true_positive": 0,
+          "avg_errors": 0.6067,
+          "avg_free": null
+        }
+      },
+      "8.5": {
+        "true": {
+          "false_negative": 10000,
+          "false_positive": 0,
+          "true_negative": 10000,
+          "true_positive": 0,
+          "avg_errors": 0.0388,
+          "avg_free": null
+        },
+        "false": {
+          "false_negative": 0,
+          "false_positive": 0,
+          "true_negative": 10000,
+          "true_positive": 10000,
+          "avg_errors": 0.0354,
+          "avg_free": 0.0
+        }
+      },
+      "6": {
+        "true": {
+          "false_negative": 10000,
+          "false_positive": 0,
+          "true_negative": 10000,
+          "true_positive": 0,
+          "avg_errors": 1.0401,
+          "avg_free": null
+        },
+        "false": {
+          "false_negative": 0,
+          "false_positive": 0,
+          "true_negative": 10000,
+          "true_positive": 10000,
+          "avg_errors": 1.0449,
+          "avg_free": 0.0
+        }
+      },
+      "5": {
+        "false": {
+          "false_negative": 0,
+          "false_positive": 0,
+          "true_negative": 10000,
+          "true_positive": 10000,
+          "avg_errors": 2.5188,
+          "avg_free": 0.0
+        },
+        "true": {
+          "false_negative": 10000,
+          "false_positive": 0,
+          "true_negative": 10000,
+          "true_positive": 0,
+          "avg_errors": 2.5757,
+          "avg_free": null
+        }
+      },
+      "3.5": {
+        "false": {
+          "false_negative": 0,
+          "false_positive": 0,
+          "true_negative": 10000,
+          "true_positive": 10000,
+          "avg_errors": 7.4388,
+          "avg_free": 0.0
+        },
+        "true": {
+          "false_negative": 9998,
+          "false_positive": 0,
+          "true_negative": 10000,
+          "true_positive": 2,
+          "avg_errors": 7.4515,
+          "avg_free": 0.0
+        }
+      },
+      "-17": {
+        "true": {
+          "false_negative": 10000,
+          "false_positive": 0,
+          "true_negative": 10000,
+          "true_positive": 0,
+          "avg_errors": 181.7623,
+          "avg_free": null
+        },
+        "false": {
+          "false_negative": 10000,
+          "false_positive": 0,
+          "true_negative": 10000,
+          "true_positive": 0,
+          "avg_errors": 181.8661,
+          "avg_free": null
+        }
+      },
+      "1.5": {
+        "true": {
+          "false_negative": 10000,
+          "false_positive": 0,
+          "true_negative": 10000,
+          "true_positive": 0,
+          "avg_errors": 20.0394,
+          "avg_free": null
+        },
+        "false": {
+          "false_negative": 0,
+          "false_positive": 0,
+          "true_negative": 10000,
+          "true_positive": 10000,
+          "avg_errors": 20.1178,
+          "avg_free": 0.0
+        }
+      },
+      "0": {
+        "true": {
+          "false_negative": 10000,
+          "false_positive": 0,
+          "true_negative": 10000,
+          "true_positive": 0,
+          "avg_errors": 33.8765,
+          "avg_free": null
+        },
+        "false": {
+          "false_negative": 0,
+          "false_positive": 0,
+          "true_negative": 10000,
+          "true_positive": 10000,
+          "avg_errors": 34.007,
+          "avg_free": 0.0
+        }
+      },
+      "-4": {
+        "false": {
+          "false_negative": 3957,
+          "false_positive": 0,
+          "true_negative": 10000,
+          "true_positive": 6043,
+          "avg_errors": 80.4535,
+          "avg_free": 0.0
+        },
+        "true": {
+          "false_negative": 10000,
+          "false_positive": 0,
+          "true_negative": 10000,
+          "true_positive": 0,
+          "avg_errors": 80.4415,
+          "avg_free": null
+        }
+      },
+      "8": {
+        "true": {
+          "false_negative": 10000,
+          "false_positive": 0,
+          "true_negative": 10000,
+          "true_positive": 0,
+          "avg_errors": 0.0815,
+          "avg_free": null
+        },
+        "false": {
+          "false_negative": 0,
+          "false_positive": 0,
+          "true_negative": 10000,
+          "true_positive": 10000,
+          "avg_errors": 0.0833,
+          "avg_free": 0.0
+        }
+      },
+      "-1": {
+        "false": {
+          "false_negative": 0,
+          "false_positive": 0,
+          "true_negative": 10000,
+          "true_positive": 10000,
+          "avg_errors": 44.7453,
+          "avg_free": 0.0
+        },
+        "true": {
+          "false_negative": 10000,
+          "false_positive": 0,
+          "true_negative": 10000,
+          "true_positive": 0,
+          "avg_errors": 44.7445,
+          "avg_free": null
+        }
+      },
+      "-4.5": {
+        "false": {
+          "false_negative": 6734,
+          "false_positive": 0,
+          "true_negative": 10000,
+          "true_positive": 3266,
+          "avg_errors": 86.2665,
+          "avg_free": 0.0
+        },
+        "true": {
+          "false_negative": 10000,
+          "false_positive": 0,
+          "true_negative": 10000,
+          "true_positive": 0,
+          "avg_errors": 86.4053,
+          "avg_free": null
+        }
+      },
+      "-10": {
+        "false": {
+          "false_negative": 10000,
+          "false_positive": 0,
+          "true_negative": 10000,
+          "true_positive": 0,
+          "avg_errors": 141.3806,
+          "avg_free": null
+        },
+        "true": {
+          "false_negative": 10000,
+          "false_positive": 0,
+          "true_negative": 10000,
+          "true_positive": 0,
+          "avg_errors": 141.4291,
+          "avg_free": null
+        }
+      },
+      "-8": {
+        "false": {
+          "false_negative": 10000,
+          "false_positive": 0,
+          "true_negative": 10000,
+          "true_positive": 0,
+          "avg_errors": 123.8592,
+          "avg_free": null
+        },
+        "true": {
+          "false_negative": 10000,
+          "false_positive": 0,
+          "true_negative": 10000,
+          "true_positive": 0,
+          "avg_errors": 123.936,
+          "avg_free": null
+        }
+      },
+      "4": {
+        "false": {
+          "false_negative": 0,
+          "false_positive": 0,
+          "true_negative": 10000,
+          "true_positive": 10000,
+          "avg_errors": 5.4104,
+          "avg_free": 0.0
+        },
+        "true": {
+          "false_negative": 10000,
+          "false_positive": 0,
+          "true_negative": 10000,
+          "true_positive": 0,
+          "avg_errors": 5.394,
+          "avg_free": null
+        }
+      },
+      "-16": {
+        "false": {
+          "false_negative": 10000,
+          "false_positive": 0,
+          "true_negative": 10000,
+          "true_positive": 0,
+          "avg_errors": 177.7808,
+          "avg_free": null
+        },
+        "true": {
+          "false_negative": 10000,
+          "false_positive": 0,
+          "true_negative": 10000,
+          "true_positive": 0,
+          "avg_errors": 177.5692,
+          "avg_free": null
+        }
+      },
+      "3": {
+        "false": {
+          "false_negative": 0,
+          "false_positive": 0,
+          "true_negative": 10000,
+          "true_positive": 10000,
+          "avg_errors": 9.9266,
+          "avg_free": 0.0
+        },
+        "true": {
+          "false_negative": 10000,
+          "false_positive": 0,
+          "true_negative": 10000,
+          "true_positive": 0,
+          "avg_errors": 9.8879,
+          "avg_free": null
+        }
+      },
+      "-15": {
+        "true": {
+          "false_negative": 10000,
+          "false_positive": 0,
+          "true_negative": 10000,
+          "true_positive": 0,
+          "avg_errors": 173.1704,
+          "avg_free": null
+        },
+        "false": {
+          "false_negative": 10000,
+          "false_positive": 0,
+          "true_negative": 10000,
+          "true_positive": 0,
+          "avg_errors": 173.2764,
+          "avg_free": null
+        }
+      },
+      "-6": {
+        "false": {
+          "false_negative": 9934,
+          "false_positive": 0,
+          "true_negative": 10000,
+          "true_positive": 66,
+          "avg_errors": 103.3618,
+          "avg_free": 0.0
+        },
+        "true": {
+          "false_negative": 10000,
+          "false_positive": 0,
+          "true_negative": 10000,
+          "true_positive": 0,
+          "avg_errors": 103.5543,
+          "avg_free": null
+        }
+      },
+      "2": {
+        "false": {
+          "false_negative": 0,
+          "false_positive": 0,
+          "true_negative": 10000,
+          "true_positive": 10000,
+          "avg_errors": 16.1979,
+          "avg_free": 0.0
+        },
+        "true": {
+          "false_negative": 10000,
+          "false_positive": 0,
+          "true_negative": 10000,
+          "true_positive": 0,
+          "avg_errors": 16.175,
+          "avg_free": null
+        }
+      }
+    }
+  },
+  "8": {
+    "140": {
+      "-10": {
+        "false": {
+          "false_negative": 9999,
+          "false_positive": 0,
+          "true_negative": 10000,
+          "true_positive": 1,
+          "avg_errors": 282.7985,
+          "avg_free": 0.0
+        },
+        "true": {
+          "false_negative": 10000,
+          "false_positive": 0,
+          "true_negative": 10000,
+          "true_positive": 0,
+          "avg_errors": 282.9638,
+          "avg_free": null
+        }
+      },
+      "8.5": {
+        "true": {
+          "false_negative": 10000,
+          "false_positive": 0,
+          "true_negative": 10000,
+          "true_positive": 0,
+          "avg_errors": 0.0725,
+          "avg_free": null
+        },
+        "false": {
+          "false_negative": 0,
+          "false_positive": 0,
+          "true_negative": 10000,
+          "true_positive": 10000,
+          "avg_errors": 0.0732,
+          "avg_free": 0.0
+        }
+      },
+      "-4.5": {
+        "false": {
+          "false_negative": 0,
+          "false_positive": 0,
+          "true_negative": 10000,
+          "true_positive": 10000,
+          "avg_errors": 172.5587,
+          "avg_free": 0.0
+        },
+        "true": {
+          "false_negative": 10000,
+          "false_positive": 0,
+          "true_negative": 10000,
+          "true_positive": 0,
+          "avg_errors": 172.5456,
+          "avg_free": null
+        }
+      },
+      "-19": {
+        "true": {
+          "false_negative": 10000,
+          "false_positive": 0,
+          "true_negative": 10000,
+          "true_positive": 0,
+          "avg_errors": 377.3516,
+          "avg_free": null
+        },
+        "false": {
+          "false_negative": 10000,
+          "false_positive": 0,
+          "true_negative": 10000,
+          "true_positive": 0,
+          "avg_errors": 377.3503,
+          "avg_free": null
+        }
+      },
+      "-7": {
+        "false": {
+          "false_negative": 2807,
+          "false_positive": 0,
+          "true_negative": 10000,
+          "true_positive": 7193,
+          "avg_errors": 227.9663,
+          "avg_free": 0.0
+        },
+        "true": {
+          "false_negative": 10000,
+          "false_positive": 0,
+          "true_negative": 10000,
+          "true_positive": 0,
+          "avg_errors": 227.9786,
+          "avg_free": null
+        }
+      },
+      "9": {
+        "false": {
+          "false_negative": 0,
+          "false_positive": 0,
+          "true_negative": 10000,
+          "true_positive": 10000,
+          "avg_errors": 0.0286,
+          "avg_free": 0.0
+        },
+        "true": {
+          "false_negative": 9999,
+          "false_positive": 0,
+          "true_negative": 10000,
+          "true_positive": 1,
+          "avg_errors": 0.0302,
+          "avg_free": 0.0
+        }
+      },
+      "-13": {
+        "false": {
+          "false_negative": 10000,
+          "false_positive": 0,
+          "true_negative": 10000,
+          "true_positive": 0,
+          "avg_errors": 324.5384,
+          "avg_free": null
+        },
+        "true": {
+          "false_negative": 10000,
+          "false_positive": 0,
+          "true_negative": 10000,
+          "true_positive": 0,
+          "avg_errors": 324.5825,
+          "avg_free": null
+        }
+      },
+      "5.5": {
+        "true": {
+          "false_negative": 10000,
+          "false_positive": 0,
+          "true_negative": 10000,
+          "true_positive": 0,
+          "avg_errors": 3.3497,
+          "avg_free": null
+        },
+        "false": {
+          "false_negative": 0,
+          "false_positive": 0,
+          "true_negative": 10000,
+          "true_positive": 10000,
+          "avg_errors": 3.3678,
+          "avg_free": 0.0
+        }
+      },
+      "-1.5": {
+        "false": {
+          "false_negative": 0,
+          "false_positive": 0,
+          "true_negative": 10000,
+          "true_positive": 10000,
+          "avg_errors": 101.2449,
+          "avg_free": 0.0
+        },
+        "true": {
+          "false_negative": 10000,
+          "false_positive": 0,
+          "true_negative": 10000,
+          "true_positive": 0,
+          "avg_errors": 101.1005,
+          "avg_free": null
+        }
+      },
+      "-1": {
+        "false": {
+          "false_negative": 0,
+          "false_positive": 0,
+          "true_negative": 10000,
+          "true_positive": 10000,
+          "avg_errors": 89.6871,
+          "avg_free": 0.0
+        },
+        "true": {
+          "false_negative": 10000,
+          "false_positive": 0,
+          "true_negative": 10000,
+          "true_positive": 0,
+          "avg_errors": 89.6135,
+          "avg_free": null
+        }
+      },
+      "2.5": {
+        "false": {
+          "false_negative": 0,
+          "false_positive": 0,
+          "true_negative": 10000,
+          "true_positive": 10000,
+          "avg_errors": 25.6932,
+          "avg_free": 0.0
+        },
+        "true": {
+          "false_negative": 10000,
+          "false_positive": 0,
+          "true_negative": 10000,
+          "true_positive": 0,
+          "avg_errors": 25.6781,
+          "avg_free": null
+        }
+      },
+      "-15": {
+        "true": {
+          "false_negative": 10000,
+          "false_positive": 0,
+          "true_negative": 10000,
+          "true_positive": 0,
+          "avg_errors": 346.4148,
+          "avg_free": null
+        },
+        "false": {
+          "false_negative": 10000,
+          "false_positive": 0,
+          "true_negative": 10000,
+          "true_positive": 0,
+          "avg_errors": 346.0754,
+          "avg_free": null
+        }
+      },
+      "-18": {
+        "true": {
+          "false_negative": 10000,
+          "false_positive": 0,
+          "true_negative": 10000,
+          "true_positive": 0,
+          "avg_errors": 371.0471,
+          "avg_free": null
+        },
+        "false": {
+          "false_negative": 10000,
+          "false_positive": 0,
+          "true_negative": 10000,
+          "true_positive": 0,
+          "avg_errors": 370.804,
+          "avg_free": null
+        }
+      },
+      "1": {
+        "false": {
+          "false_negative": 0,
+          "false_positive": 0,
+          "true_negative": 10000,
+          "true_positive": 10000,
+          "avg_errors": 48.5806,
+          "avg_free": 0.0
+        },
+        "true": {
+          "false_negative": 10000,
+          "false_positive": 0,
+          "true_negative": 10000,
+          "true_positive": 0,
+          "avg_errors": 48.4432,
+          "avg_free": null
+        }
+      },
+      "10": {
+        "true": {
+          "false_negative": 10000,
+          "false_positive": 0,
+          "true_negative": 10000,
+          "true_positive": 0,
+          "avg_errors": 0.0035,
+          "avg_free": null
+        },
+        "false": {
+          "false_negative": 0,
+          "false_positive": 0,
+          "true_negative": 10000,
+          "true_positive": 10000,
+          "avg_errors": 0.0029,
+          "avg_free": 0.0
+        }
+      },
+      "-16": {
+        "false": {
+          "false_negative": 10000,
+          "false_positive": 0,
+          "true_negative": 10000,
+          "true_positive": 0,
+          "avg_errors": 355.3483,
+          "avg_free": null
+        },
+        "true": {
+          "false_negative": 10000,
+          "false_positive": 0,
+          "true_negative": 10000,
+          "true_positive": 0,
+          "avg_errors": 355.2364,
+          "avg_free": null
+        }
+      },
+      "-0.5": {
+        "false": {
+          "false_negative": 0,
+          "false_positive": 0,
+          "true_negative": 10000,
+          "true_positive": 10000,
+          "avg_errors": 78.7054,
+          "avg_free": 0.0
+        },
+        "true": {
+          "false_negative": 10000,
+          "false_positive": 0,
+          "true_negative": 10000,
+          "true_positive": 0,
+          "avg_errors": 78.5974,
+          "avg_free": null
+        }
+      },
+      "-14": {
+        "false": {
+          "false_negative": 10000,
+          "false_positive": 0,
+          "true_negative": 10000,
+          "true_positive": 0,
+          "avg_errors": 336.0431,
+          "avg_free": null
+        },
+        "true": {
+          "false_negative": 10000,
+          "false_positive": 0,
+          "true_negative": 10000,
+          "true_positive": 0,
+          "avg_errors": 335.9779,
+          "avg_free": null
+        }
+      },
+      "7.5": {
+        "false": {
+          "false_negative": 0,
+          "false_positive": 0,
+          "true_negative": 10000,
+          "true_positive": 10000,
+          "avg_errors": 0.3453,
+          "avg_free": 0.0
+        },
+        "true": {
+          "false_negative": 10000,
+          "false_positive": 0,
+          "true_negative": 10000,
+          "true_positive": 0,
+          "avg_errors": 0.3371,
+          "avg_free": null
+        }
+      },
+      "0.5": {
+        "true": {
+          "false_negative": 9998,
+          "false_positive": 0,
+          "true_negative": 10000,
+          "true_positive": 2,
+          "avg_errors": 57.8338,
+          "avg_free": 0.0
+        },
+        "false": {
+          "false_negative": 0,
+          "false_positive": 0,
+          "true_negative": 10000,
+          "true_positive": 10000,
+          "avg_errors": 57.9225,
+          "avg_free": 0.0
+        }
+      },
+      "3.5": {
+        "false": {
+          "false_negative": 0,
+          "false_positive": 0,
+          "true_negative": 10000,
+          "true_positive": 10000,
+          "avg_errors": 14.7899,
+          "avg_free": 0.0
+        },
+        "true": {
+          "false_negative": 10000,
+          "false_positive": 0,
+          "true_negative": 10000,
+          "true_positive": 0,
+          "avg_errors": 14.8758,
+          "avg_free": null
+        }
+      },
+      "-20": {
+        "false": {
+          "false_negative": 10000,
+          "false_positive": 0,
+          "true_negative": 10000,
+          "true_positive": 0,
+          "avg_errors": 383.4255,
+          "avg_free": null
+        },
+        "true": {
+          "false_negative": 10000,
+          "false_positive": 0,
+          "true_negative": 10000,
+          "true_positive": 0,
+          "avg_errors": 383.2587,
+          "avg_free": null
+        }
+      },
+      "-7.5": {
+        "true": {
+          "false_negative": 10000,
+          "false_positive": 0,
+          "true_negative": 10000,
+          "true_positive": 0,
+          "avg_errors": 237.8013,
+          "avg_free": null
+        },
+        "false": {
+          "false_negative": 5635,
+          "false_positive": 0,
+          "true_negative": 10000,
+          "true_positive": 4365,
+          "avg_errors": 237.814,
+          "avg_free": 0.0
+        }
+      },
+      "-2.5": {
+        "true": {
+          "false_negative": 10000,
+          "false_positive": 0,
+          "true_negative": 10000,
+          "true_positive": 0,
+          "avg_errors": 124.6764,
+          "avg_free": null
+        },
+        "false": {
+          "false_negative": 0,
+          "false_positive": 0,
+          "true_negative": 10000,
+          "true_positive": 10000,
+          "avg_errors": 124.84,
+          "avg_free": 0.0
+        }
+      },
+      "-8.5": {
+        "true": {
+          "false_negative": 10000,
+          "false_positive": 0,
+          "true_negative": 10000,
+          "true_positive": 0,
+          "avg_errors": 257.0407,
+          "avg_free": null
+        },
+        "false": {
+          "false_negative": 9450,
+          "false_positive": 0,
+          "true_negative": 10000,
+          "true_positive": 550,
+          "avg_errors": 257.111,
+          "avg_free": 0.0
+        }
+      },
+      "-4": {
+        "true": {
+          "false_negative": 9999,
+          "false_positive": 0,
+          "true_negative": 10000,
+          "true_positive": 1,
+          "avg_errors": 160.6642,
+          "avg_free": 0.0
+        },
+        "false": {
+          "false_negative": 0,
+          "false_positive": 0,
+          "true_negative": 10000,
+          "true_positive": 10000,
+          "avg_errors": 160.5644,
+          "avg_free": 0.0
+        }
+      },
+      "-6.5": {
+        "false": {
+          "false_negative": 866,
+          "false_positive": 0,
+          "true_negative": 10000,
+          "true_positive": 9134,
+          "avg_errors": 217.6117,
+          "avg_free": 0.0
+        },
+        "true": {
+          "false_negative": 9998,
+          "false_positive": 0,
+          "true_negative": 10000,
+          "true_positive": 2,
+          "avg_errors": 217.4166,
+          "avg_free": 0.0
+        }
+      },
+      "-11": {
+        "false": {
+          "false_negative": 10000,
+          "false_positive": 0,
+          "true_negative": 10000,
+          "true_positive": 0,
+          "avg_errors": 298.3557,
+          "avg_free": null
+        },
+        "true": {
+          "false_negative": 10000,
+          "false_positive": 0,
+          "true_negative": 10000,
+          "true_positive": 0,
+          "avg_errors": 298.3489,
+          "avg_free": null
+        }
+      },
+      "2": {
+        "false": {
+          "false_negative": 0,
+          "false_positive": 0,
+          "true_negative": 10000,
+          "true_positive": 10000,
+          "avg_errors": 32.3746,
+          "avg_free": 0.0
+        },
+        "true": {
+          "false_negative": 10000,
+          "false_positive": 0,
+          "true_negative": 10000,
+          "true_positive": 0,
+          "avg_errors": 32.3904,
+          "avg_free": null
+        }
+      },
+      "-2": {
+        "true": {
+          "false_negative": 9999,
+          "false_positive": 0,
+          "true_negative": 10000,
+          "true_positive": 1,
+          "avg_errors": 112.9773,
+          "avg_free": 0.0
+        },
+        "false": {
+          "false_negative": 0,
+          "false_positive": 0,
+          "true_negative": 10000,
+          "true_positive": 10000,
+          "avg_errors": 112.8099,
+          "avg_free": 0.0
+        }
+      },
+      "4.5": {
+        "false": {
+          "false_negative": 0,
+          "false_positive": 0,
+          "true_negative": 10000,
+          "true_positive": 10000,
+          "avg_errors": 7.5869,
+          "avg_free": 0.0
+        },
+        "true": {
+          "false_negative": 10000,
+          "false_positive": 0,
+          "true_negative": 10000,
+          "true_positive": 0,
+          "avg_errors": 7.6233,
+          "avg_free": null
+        }
+      },
+      "-3.5": {
+        "false": {
+          "false_negative": 0,
+          "false_positive": 0,
+          "true_negative": 10000,
+          "true_positive": 10000,
+          "avg_errors": 148.7456,
+          "avg_free": 0.0
+        },
+        "true": {
+          "false_negative": 9999,
+          "false_positive": 0,
+          "true_negative": 10000,
+          "true_positive": 1,
+          "avg_errors": 148.824,
+          "avg_free": 0.0
+        }
+      },
+      "4": {
+        "true": {
+          "false_negative": 10000,
+          "false_positive": 0,
+          "true_negative": 10000,
+          "true_positive": 0,
+          "avg_errors": 10.8551,
+          "avg_free": null
+        },
+        "false": {
+          "false_negative": 0,
+          "false_positive": 0,
+          "true_negative": 10000,
+          "true_positive": 10000,
+          "avg_errors": 10.799,
+          "avg_free": 0.0
+        }
+      },
+      "-9": {
+        "false": {
+          "false_negative": 9903,
+          "false_positive": 0,
+          "true_negative": 10000,
+          "true_positive": 97,
+          "avg_errors": 265.8687,
+          "avg_free": 0.0
+        },
+        "true": {
+          "false_negative": 10000,
+          "false_positive": 0,
+          "true_negative": 10000,
+          "true_positive": 0,
+          "avg_errors": 266.2472,
+          "avg_free": null
+        }
+      },
+      "-8": {
+        "true": {
+          "false_negative": 10000,
+          "false_positive": 0,
+          "true_negative": 10000,
+          "true_positive": 0,
+          "avg_errors": 247.8368,
+          "avg_free": null
+        },
+        "false": {
+          "false_negative": 8116,
+          "false_positive": 0,
+          "true_negative": 10000,
+          "true_positive": 1884,
+          "avg_errors": 247.47,
+          "avg_free": 0.0
+        }
+      },
+      "-3": {
+        "true": {
+          "false_negative": 10000,
+          "false_positive": 0,
+          "true_negative": 10000,
+          "true_positive": 0,
+          "avg_errors": 136.9253,
+          "avg_free": null
+        },
+        "false": {
+          "false_negative": 0,
+          "false_positive": 0,
+          "true_negative": 10000,
+          "true_positive": 10000,
+          "avg_errors": 136.5113,
+          "avg_free": 0.0
+        }
+      },
+      "6.5": {
+        "false": {
+          "false_negative": 0,
+          "false_positive": 0,
+          "true_negative": 10000,
+          "true_positive": 10000,
+          "avg_errors": 1.2348,
+          "avg_free": 0.0
+        },
+        "true": {
+          "false_negative": 10000,
+          "false_positive": 0,
+          "true_negative": 10000,
+          "true_positive": 0,
+          "avg_errors": 1.2195,
+          "avg_free": null
+        }
+      },
+      "-17": {
+        "false": {
+          "false_negative": 10000,
+          "false_positive": 0,
+          "true_negative": 10000,
+          "true_positive": 0,
+          "avg_errors": 363.4649,
+          "avg_free": null
+        },
+        "true": {
+          "false_negative": 10000,
+          "false_positive": 0,
+          "true_negative": 10000,
+          "true_positive": 0,
+          "avg_errors": 363.558,
+          "avg_free": null
+        }
+      },
+      "8": {
+        "true": {
+          "false_negative": 10000,
+          "false_positive": 0,
+          "true_negative": 10000,
+          "true_positive": 0,
+          "avg_errors": 0.1608,
+          "avg_free": null
+        },
+        "false": {
+          "false_negative": 0,
+          "false_positive": 0,
+          "true_negative": 10000,
+          "true_positive": 10000,
+          "avg_errors": 0.163,
+          "avg_free": 0.0
+        }
+      },
+      "3": {
+        "false": {
+          "false_negative": 0,
+          "false_positive": 0,
+          "true_negative": 10000,
+          "true_positive": 10000,
+          "avg_errors": 19.8015,
+          "avg_free": 0.0
+        },
+        "true": {
+          "false_negative": 10000,
+          "false_positive": 0,
+          "true_negative": 10000,
+          "true_positive": 0,
+          "avg_errors": 19.786,
+          "avg_free": null
+        }
+      },
+      "0": {
+        "true": {
+          "false_negative": 10000,
+          "false_positive": 0,
+          "true_negative": 10000,
+          "true_positive": 0,
+          "avg_errors": 67.7578,
+          "avg_free": null
+        },
+        "false": {
+          "false_negative": 0,
+          "false_positive": 0,
+          "true_negative": 10000,
+          "true_positive": 10000,
+          "avg_errors": 67.9876,
+          "avg_free": 0.0
+        }
+      },
+      "-5.5": {
+        "false": {
+          "false_negative": 18,
+          "false_positive": 0,
+          "true_negative": 10000,
+          "true_positive": 9982,
+          "avg_errors": 195.6466,
+          "avg_free": 0.0
+        },
+        "true": {
+          "false_negative": 9999,
+          "false_positive": 0,
+          "true_negative": 10000,
+          "true_positive": 1,
+          "avg_errors": 195.738,
+          "avg_free": 0.0
+        }
+      },
+      "6": {
+        "false": {
+          "false_negative": 0,
+          "false_positive": 0,
+          "true_negative": 10000,
+          "true_positive": 10000,
+          "avg_errors": 2.0705,
+          "avg_free": 0.0
+        },
+        "true": {
+          "false_negative": 10000,
+          "false_positive": 0,
+          "true_negative": 10000,
+          "true_positive": 0,
+          "avg_errors": 2.0758,
+          "avg_free": null
+        }
+      },
+      "-12": {
+        "false": {
+          "false_negative": 10000,
+          "false_positive": 0,
+          "true_negative": 10000,
+          "true_positive": 0,
+          "avg_errors": 311.9455,
+          "avg_free": null
+        },
+        "true": {
+          "false_negative": 10000,
+          "false_positive": 0,
+          "true_negative": 10000,
+          "true_positive": 0,
+          "avg_errors": 312.1274,
+          "avg_free": null
+        }
+      },
+      "-5": {
+        "false": {
+          "false_negative": 0,
+          "false_positive": 0,
+          "true_negative": 10000,
+          "true_positive": 10000,
+          "avg_errors": 184.4548,
+          "avg_free": 0.0
+        },
+        "true": {
+          "false_negative": 9999,
+          "false_positive": 0,
+          "true_negative": 10000,
+          "true_positive": 1,
+          "avg_errors": 184.0416,
+          "avg_free": 0.0
+        }
+      },
+      "5": {
+        "false": {
+          "false_negative": 0,
+          "false_positive": 0,
+          "true_negative": 10000,
+          "true_positive": 10000,
+          "avg_errors": 5.1482,
+          "avg_free": 0.0
+        },
+        "true": {
+          "false_negative": 10000,
+          "false_positive": 0,
+          "true_negative": 10000,
+          "true_positive": 0,
+          "avg_errors": 5.1765,
+          "avg_free": null
+        }
+      },
+      "7": {
+        "false": {
+          "false_negative": 0,
+          "false_positive": 0,
+          "true_negative": 10000,
+          "true_positive": 10000,
+          "avg_errors": 0.662,
+          "avg_free": 0.0
+        },
+        "true": {
+          "false_negative": 10000,
+          "false_positive": 0,
+          "true_negative": 10000,
+          "true_positive": 0,
+          "avg_errors": 0.679,
+          "avg_free": null
+        }
+      },
+      "1.5": {
+        "false": {
+          "false_negative": 0,
+          "false_positive": 0,
+          "true_negative": 10000,
+          "true_positive": 10000,
+          "avg_errors": 40.0895,
+          "avg_free": 0.0
+        },
+        "true": {
+          "false_negative": 10000,
+          "false_positive": 0,
+          "true_negative": 10000,
+          "true_positive": 0,
+          "avg_errors": 40.0018,
+          "avg_free": null
+        }
+      },
+      "-6": {
+        "true": {
+          "false_negative": 10000,
+          "false_positive": 0,
+          "true_negative": 10000,
+          "true_positive": 0,
+          "avg_errors": 206.4365,
+          "avg_free": null
+        },
+        "false": {
+          "false_negative": 146,
+          "false_positive": 0,
+          "true_negative": 10000,
+          "true_positive": 9854,
+          "avg_errors": 206.5164,
+          "avg_free": 0.0
+        }
+      }
+    }
+  },
+  "16": {
+    "140": {
+      "-4": {
+        "false": {
+          "false_negative": 0,
+          "false_positive": 0,
+          "true_negative": 10000,
+          "true_positive": 10000,
+          "avg_errors": 321.5473,
+          "avg_free": 0.0
+        },
+        "true": {
+          "false_negative": 10000,
+          "false_positive": 0,
+          "true_negative": 10000,
+          "true_positive": 0,
+          "avg_errors": 321.4247,
+          "avg_free": null
+        }
+      },
+      "-0.5": {
+        "true": {
+          "false_negative": 9999,
+          "false_positive": 0,
+          "true_negative": 10000,
+          "true_positive": 1,
+          "avg_errors": 157.1061,
+          "avg_free": 0.0
+        },
+        "false": {
+          "false_negative": 0,
+          "false_positive": 0,
+          "true_negative": 10000,
+          "true_positive": 10000,
+          "avg_errors": 157.1645,
+          "avg_free": 0.0
+        }
+      },
+      "6.5": {
+        "false": {
+          "false_negative": 0,
+          "false_positive": 0,
+          "true_negative": 10000,
+          "true_positive": 10000,
+          "avg_errors": 2.4071,
+          "avg_free": 0.0
+        },
+        "true": {
+          "false_negative": 10000,
+          "false_positive": 0,
+          "true_negative": 10000,
+          "true_positive": 0,
+          "avg_errors": 2.4056,
+          "avg_free": null
+        }
+      },
+      "5.5": {
+        "false": {
+          "false_negative": 0,
+          "false_positive": 0,
+          "true_negative": 10000,
+          "true_positive": 10000,
+          "avg_errors": 6.6914,
+          "avg_free": 0.0
+        },
+        "true": {
+          "false_negative": 10000,
+          "false_positive": 0,
+          "true_negative": 10000,
+          "true_positive": 0,
+          "avg_errors": 6.6841,
+          "avg_free": null
+        }
+      },
+      "-14": {
+        "false": {
+          "false_negative": 10000,
+          "false_positive": 0,
+          "true_negative": 10000,
+          "true_positive": 0,
+          "avg_errors": 671.8244,
+          "avg_free": null
+        },
+        "true": {
+          "false_negative": 10000,
+          "false_positive": 0,
+          "true_negative": 10000,
+          "true_positive": 0,
+          "avg_errors": 672.1306,
+          "avg_free": null
+        }
+      },
+      "-20": {
+        "false": {
+          "false_negative": 10000,
+          "false_positive": 0,
+          "true_negative": 10000,
+          "true_positive": 0,
+          "avg_errors": 766.6037,
+          "avg_free": null
+        },
+        "true": {
+          "false_negative": 10000,
+          "false_positive": 0,
+          "true_negative": 10000,
+          "true_positive": 0,
+          "avg_errors": 767.0775,
+          "avg_free": null
+        }
+      },
+      "-11": {
+        "false": {
+          "false_negative": 7899,
+          "false_positive": 0,
+          "true_negative": 10000,
+          "true_positive": 2101,
+          "avg_errors": 596.305,
+          "avg_free": 0.0
+        },
+        "true": {
+          "false_negative": 10000,
+          "false_positive": 0,
+          "true_negative": 10000,
+          "true_positive": 0,
+          "avg_errors": 595.9878,
+          "avg_free": null
+        }
+      },
+      "7.5": {
+        "true": {
+          "false_negative": 10000,
+          "false_positive": 0,
+          "true_negative": 10000,
+          "true_positive": 0,
+          "avg_errors": 0.7065,
+          "avg_free": null
+        },
+        "false": {
+          "false_negative": 0,
+          "false_positive": 0,
+          "true_negative": 10000,
+          "true_positive": 10000,
+          "avg_errors": 0.6945,
+          "avg_free": 0.0
+        }
+      },
+      "-9": {
+        "true": {
+          "false_negative": 9999,
+          "false_positive": 0,
+          "true_negative": 10000,
+          "true_positive": 1,
+          "avg_errors": 532.5486,
+          "avg_free": 0.0
+        },
+        "false": {
+          "false_negative": 150,
+          "false_positive": 0,
+          "true_negative": 10000,
+          "true_positive": 9850,
+          "avg_errors": 532.2096,
+          "avg_free": 0.0
+        }
+      },
+      "6": {
+        "false": {
+          "false_negative": 0,
+          "false_positive": 0,
+          "true_negative": 10000,
+          "true_positive": 10000,
+          "avg_errors": 4.1251,
+          "avg_free": 0.0
+        },
+        "true": {
+          "false_negative": 9999,
+          "false_positive": 0,
+          "true_negative": 10000,
+          "true_positive": 1,
+          "avg_errors": 4.1214,
+          "avg_free": 0.0
+        }
+      },
+      "-1.5": {
+        "false": {
+          "false_negative": 0,
+          "false_positive": 0,
+          "true_negative": 10000,
+          "true_positive": 10000,
+          "avg_errors": 202.247,
+          "avg_free": 0.0
+        },
+        "true": {
+          "false_negative": 10000,
+          "false_positive": 0,
+          "true_negative": 10000,
+          "true_positive": 0,
+          "avg_errors": 202.1277,
+          "avg_free": null
+        }
+      },
+      "-15": {
+        "false": {
+          "false_negative": 10000,
+          "false_positive": 0,
+          "true_negative": 10000,
+          "true_positive": 0,
+          "avg_errors": 692.4279,
+          "avg_free": null
+        },
+        "true": {
+          "false_negative": 10000,
+          "false_positive": 0,
+          "true_negative": 10000,
+          "true_positive": 0,
+          "avg_errors": 692.1559,
+          "avg_free": null
+        }
+      },
+      "3": {
+        "false": {
+          "false_negative": 0,
+          "false_positive": 0,
+          "true_negative": 10000,
+          "true_positive": 10000,
+          "avg_errors": 39.4414,
+          "avg_free": 0.0
+        },
+        "true": {
+          "false_negative": 10000,
+          "false_positive": 0,
+          "true_negative": 10000,
+          "true_positive": 0,
+          "avg_errors": 39.5902,
+          "avg_free": null
+        }
+      },
+      "-16": {
+        "false": {
+          "false_negative": 10000,
+          "false_positive": 0,
+          "true_negative": 10000,
+          "true_positive": 0,
+          "avg_errors": 710.6058,
+          "avg_free": null
+        },
+        "true": {
+          "false_negative": 10000,
+          "false_positive": 0,
+          "true_negative": 10000,
+          "true_positive": 0,
+          "avg_errors": 710.9306,
+          "avg_free": null
+        }
+      },
+      "-6": {
+        "true": {
+          "false_negative": 10000,
+          "false_positive": 0,
+          "true_negative": 10000,
+          "true_positive": 0,
+          "avg_errors": 413.5048,
+          "avg_free": null
+        },
+        "false": {
+          "false_negative": 0,
+          "false_positive": 0,
+          "true_negative": 10000,
+          "true_positive": 10000,
+          "avg_errors": 413.5798,
+          "avg_free": 0.0
+        }
+      },
+      "10": {
+        "false": {
+          "false_negative": 0,
+          "false_positive": 0,
+          "true_negative": 10000,
+          "true_positive": 10000,
+          "avg_errors": 0.006,
+          "avg_free": 0.0
+        },
+        "true": {
+          "false_negative": 10000,
+          "false_positive": 0,
+          "true_negative": 10000,
+          "true_positive": 0,
+          "avg_errors": 0.0072,
+          "avg_free": null
+        }
+      },
+      "-10": {
+        "false": {
+          "false_negative": 2467,
+          "false_positive": 0,
+          "true_negative": 10000,
+          "true_positive": 7533,
+          "avg_errors": 565.4458,
+          "avg_free": 0.0
+        },
+        "true": {
+          "false_negative": 10000,
+          "false_positive": 0,
+          "true_negative": 10000,
+          "true_positive": 0,
+          "avg_errors": 565.5743,
+          "avg_free": null
+        }
+      },
+      "9": {
+        "true": {
+          "false_negative": 10000,
+          "false_positive": 0,
+          "true_negative": 10000,
+          "true_positive": 0,
+          "avg_errors": 0.0566,
+          "avg_free": null
+        },
+        "false": {
+          "false_negative": 0,
+          "false_positive": 0,
+          "true_negative": 10000,
+          "true_positive": 10000,
+          "avg_errors": 0.0616,
+          "avg_free": 0.0
+        }
+      },
+      "2.5": {
+        "false": {
+          "false_negative": 0,
+          "false_positive": 0,
+          "true_negative": 10000,
+          "true_positive": 10000,
+          "avg_errors": 51.2859,
+          "avg_free": 0.0
+        },
+        "true": {
+          "false_negative": 10000,
+          "false_positive": 0,
+          "true_negative": 10000,
+          "true_positive": 0,
+          "avg_errors": 51.2195,
+          "avg_free": null
+        }
+      },
+      "0": {
+        "false": {
+          "false_negative": 0,
+          "false_positive": 0,
+          "true_negative": 10000,
+          "true_positive": 10000,
+          "avg_errors": 135.9012,
+          "avg_free": 0.0
+        },
+        "true": {
+          "false_negative": 9999,
+          "false_positive": 0,
+          "true_negative": 10000,
+          "true_positive": 1,
+          "avg_errors": 135.72,
+          "avg_free": 0.0
+        }
+      },
+      "3.5": {
+        "true": {
+          "false_negative": 10000,
+          "false_positive": 0,
+          "true_negative": 10000,
+          "true_positive": 0,
+          "avg_errors": 29.5734,
+          "avg_free": null
+        },
+        "false": {
+          "false_negative": 0,
+          "false_positive": 0,
+          "true_negative": 10000,
+          "true_positive": 10000,
+          "avg_errors": 29.6781,
+          "avg_free": 0.0
+        }
+      },
+      "1": {
+        "false": {
+          "false_negative": 0,
+          "false_positive": 0,
+          "true_negative": 10000,
+          "true_positive": 10000,
+          "avg_errors": 97.2733,
+          "avg_free": 0.0
+        },
+        "true": {
+          "false_negative": 10000,
+          "false_positive": 0,
+          "true_negative": 10000,
+          "true_positive": 0,
+          "avg_errors": 97.1796,
+          "avg_free": null
+        }
+      },
+      "-8": {
+        "false": {
+          "false_negative": 0,
+          "false_positive": 0,
+          "true_negative": 10000,
+          "true_positive": 10000,
+          "avg_errors": 495.546,
+          "avg_free": 0.0
+        },
+        "true": {
+          "false_negative": 9999,
+          "false_positive": 0,
+          "true_negative": 10000,
+          "true_positive": 1,
+          "avg_errors": 495.4069,
+          "avg_free": 0.0
+        }
+      },
+      "-5.5": {
+        "false": {
+          "false_negative": 0,
+          "false_positive": 0,
+          "true_negative": 10000,
+          "true_positive": 10000,
+          "avg_errors": 391.047,
+          "avg_free": 0.0
+        },
+        "true": {
+          "false_negative": 10000,
+          "false_positive": 0,
+          "true_negative": 10000,
+          "true_positive": 0,
+          "avg_errors": 391.222,
+          "avg_free": null
+        }
+      },
+      "-3.5": {
+        "false": {
+          "false_negative": 0,
+          "false_positive": 0,
+          "true_negative": 10000,
+          "true_positive": 10000,
+          "avg_errors": 297.9617,
+          "avg_free": 0.0
+        },
+        "true": {
+          "false_negative": 9999,
+          "false_positive": 0,
+          "true_negative": 10000,
+          "true_positive": 1,
+          "avg_errors": 297.5858,
+          "avg_free": 0.0
+        }
+      },
+      "0.5": {
+        "true": {
+          "false_negative": 9999,
+          "false_positive": 0,
+          "true_negative": 10000,
+          "true_positive": 1,
+          "avg_errors": 115.8083,
+          "avg_free": 0.0
+        },
+        "false": {
+          "false_negative": 0,
+          "false_positive": 0,
+          "true_negative": 10000,
+          "true_positive": 10000,
+          "avg_errors": 116.0761,
+          "avg_free": 0.0
+        }
+      },
+      "-7": {
+        "true": {
+          "false_negative": 9999,
+          "false_positive": 0,
+          "true_negative": 10000,
+          "true_positive": 1,
+          "avg_errors": 455.8675,
+          "avg_free": 0.0
+        },
+        "false": {
+          "false_negative": 0,
+          "false_positive": 0,
+          "true_negative": 10000,
+          "true_positive": 10000,
+          "avg_errors": 455.625,
+          "avg_free": 0.0
+        }
+      },
+      "-4.5": {
+        "false": {
+          "false_negative": 0,
+          "false_positive": 0,
+          "true_negative": 10000,
+          "true_positive": 10000,
+          "avg_errors": 344.8788,
+          "avg_free": 0.0
+        },
+        "true": {
+          "false_negative": 10000,
+          "false_positive": 0,
+          "true_negative": 10000,
+          "true_positive": 0,
+          "avg_errors": 345.2749,
+          "avg_free": null
+        }
+      },
+      "8.5": {
+        "true": {
+          "false_negative": 10000,
+          "false_positive": 0,
+          "true_negative": 10000,
+          "true_positive": 0,
+          "avg_errors": 0.142,
+          "avg_free": null
+        },
+        "false": {
+          "false_negative": 0,
+          "false_positive": 0,
+          "true_negative": 10000,
+          "true_positive": 10000,
+          "avg_errors": 0.15,
+          "avg_free": 0.0
+        }
+      },
+      "5": {
+        "true": {
+          "false_negative": 10000,
+          "false_positive": 0,
+          "true_negative": 10000,
+          "true_positive": 0,
+          "avg_errors": 10.2517,
+          "avg_free": null
+        },
+        "false": {
+          "false_negative": 0,
+          "false_positive": 0,
+          "true_negative": 10000,
+          "true_positive": 10000,
+          "avg_errors": 10.3124,
+          "avg_free": 0.0
+        }
+      },
+      "-12": {
+        "true": {
+          "false_negative": 10000,
+          "false_positive": 0,
+          "true_negative": 10000,
+          "true_positive": 0,
+          "avg_errors": 624.2427,
+          "avg_free": null
+        },
+        "false": {
+          "false_negative": 9860,
+          "false_positive": 0,
+          "true_negative": 10000,
+          "true_positive": 140,
+          "avg_errors": 624.0972,
+          "avg_free": 0.0
+        }
+      },
+      "1.5": {
+        "false": {
+          "false_negative": 0,
+          "false_positive": 0,
+          "true_negative": 10000,
+          "true_positive": 10000,
+          "avg_errors": 80.2815,
+          "avg_free": 0.0
+        },
+        "true": {
+          "false_negative": 9999,
+          "false_positive": 0,
+          "true_negative": 10000,
+          "true_positive": 1,
+          "avg_errors": 80.1316,
+          "avg_free": 0.0
+        }
+      },
+      "-8.5": {
+        "false": {
+          "false_negative": 8,
+          "false_positive": 0,
+          "true_negative": 10000,
+          "true_positive": 9992,
+          "avg_errors": 514.056,
+          "avg_free": 0.0
+        },
+        "true": {
+          "false_negative": 10000,
+          "false_positive": 0,
+          "true_negative": 10000,
+          "true_positive": 0,
+          "avg_errors": 514.0484,
+          "avg_free": null
+        }
+      },
+      "-2": {
+        "false": {
+          "false_negative": 0,
+          "false_positive": 0,
+          "true_negative": 10000,
+          "true_positive": 10000,
+          "avg_errors": 225.804,
+          "avg_free": 0.0
+        },
+        "true": {
+          "false_negative": 10000,
+          "false_positive": 0,
+          "true_negative": 10000,
+          "true_positive": 0,
+          "avg_errors": 225.6878,
+          "avg_free": null
+        }
+      },
+      "-19": {
+        "false": {
+          "false_negative": 10000,
+          "false_positive": 0,
+          "true_negative": 10000,
+          "true_positive": 0,
+          "avg_errors": 755.122,
+          "avg_free": null
+        },
+        "true": {
+          "false_negative": 10000,
+          "false_positive": 0,
+          "true_negative": 10000,
+          "true_positive": 0,
+          "avg_errors": 754.9689,
+          "avg_free": null
+        }
+      },
+      "4.5": {
+        "false": {
+          "false_negative": 0,
+          "false_positive": 0,
+          "true_negative": 10000,
+          "true_positive": 10000,
+          "avg_errors": 15.2013,
+          "avg_free": 0.0
+        },
+        "true": {
+          "false_negative": 10000,
+          "false_positive": 0,
+          "true_negative": 10000,
+          "true_positive": 0,
+          "avg_errors": 15.2289,
+          "avg_free": null
+        }
+      },
+      "-6.5": {
+        "true": {
+          "false_negative": 9999,
+          "false_positive": 0,
+          "true_negative": 10000,
+          "true_positive": 1,
+          "avg_errors": 434.909,
+          "avg_free": 0.0
+        },
+        "false": {
+          "false_negative": 0,
+          "false_positive": 0,
+          "true_negative": 10000,
+          "true_positive": 10000,
+          "avg_errors": 435.0152,
+          "avg_free": 0.0
+        }
+      },
+      "-3": {
+        "false": {
+          "false_negative": 0,
+          "false_positive": 0,
+          "true_negative": 10000,
+          "true_positive": 10000,
+          "avg_errors": 273.5827,
+          "avg_free": 0.0
+        },
+        "true": {
+          "false_negative": 10000,
+          "false_positive": 0,
+          "true_negative": 10000,
+          "true_positive": 0,
+          "avg_errors": 273.3916,
+          "avg_free": null
+        }
+      },
+      "-5": {
+        "true": {
+          "false_negative": 10000,
+          "false_positive": 0,
+          "true_negative": 10000,
+          "true_positive": 0,
+          "avg_errors": 368.354,
+          "avg_free": null
+        },
+        "false": {
+          "false_negative": 0,
+          "false_positive": 0,
+          "true_negative": 10000,
+          "true_positive": 10000,
+          "avg_errors": 368.2708,
+          "avg_free": 0.0
+        }
+      },
+      "8": {
+        "false": {
+          "false_negative": 0,
+          "false_positive": 0,
+          "true_negative": 10000,
+          "true_positive": 10000,
+          "avg_errors": 0.3331,
+          "avg_free": 0.0
+        },
+        "true": {
+          "false_negative": 9999,
+          "false_positive": 0,
+          "true_negative": 10000,
+          "true_positive": 1,
+          "avg_errors": 0.3289,
+          "avg_free": 0.0
+        }
+      },
+      "4": {
+        "true": {
+          "false_negative": 10000,
+          "false_positive": 0,
+          "true_negative": 10000,
+          "true_positive": 0,
+          "avg_errors": 21.5951,
+          "avg_free": null
+        },
+        "false": {
+          "false_negative": 0,
+          "false_positive": 0,
+          "true_negative": 10000,
+          "true_positive": 10000,
+          "avg_errors": 21.6214,
+          "avg_free": 0.0
+        }
+      },
+      "-13": {
+        "true": {
+          "false_negative": 10000,
+          "false_positive": 0,
+          "true_negative": 10000,
+          "true_positive": 0,
+          "avg_errors": 649.2677,
+          "avg_free": null
+        },
+        "false": {
+          "false_negative": 9999,
+          "false_positive": 0,
+          "true_negative": 10000,
+          "true_positive": 1,
+          "avg_errors": 649.4391,
+          "avg_free": 0.0
+        }
+      },
+      "-18": {
+        "false": {
+          "false_negative": 10000,
+          "false_positive": 0,
+          "true_negative": 10000,
+          "true_positive": 0,
+          "avg_errors": 741.6695,
+          "avg_free": null
+        },
+        "true": {
+          "false_negative": 10000,
+          "false_positive": 0,
+          "true_negative": 10000,
+          "true_positive": 0,
+          "avg_errors": 741.8455,
+          "avg_free": null
+        }
+      },
+      "-7.5": {
+        "false": {
+          "false_negative": 0,
+          "false_positive": 0,
+          "true_negative": 10000,
+          "true_positive": 10000,
+          "avg_errors": 476.1403,
+          "avg_free": 0.0
+        },
+        "true": {
+          "false_negative": 10000,
+          "false_positive": 0,
+          "true_negative": 10000,
+          "true_positive": 0,
+          "avg_errors": 475.7294,
+          "avg_free": null
+        }
+      },
+      "-1": {
+        "true": {
+          "false_negative": 10000,
+          "false_positive": 0,
+          "true_negative": 10000,
+          "true_positive": 0,
+          "avg_errors": 179.2211,
+          "avg_free": null
+        },
+        "false": {
+          "false_negative": 0,
+          "false_positive": 0,
+          "true_negative": 10000,
+          "true_positive": 10000,
+          "avg_errors": 179.1461,
+          "avg_free": 0.0
+        }
+      },
+      "-2.5": {
+        "true": {
+          "false_negative": 10000,
+          "false_positive": 0,
+          "true_negative": 10000,
+          "true_positive": 0,
+          "avg_errors": 249.79,
+          "avg_free": null
+        },
+        "false": {
+          "false_negative": 0,
+          "false_positive": 0,
+          "true_negative": 10000,
+          "true_positive": 10000,
+          "avg_errors": 249.4547,
+          "avg_free": 0.0
+        }
+      },
+      "-17": {
+        "true": {
+          "false_negative": 10000,
+          "false_positive": 0,
+          "true_negative": 10000,
+          "true_positive": 0,
+          "avg_errors": 727.3306,
+          "avg_free": null
+        },
+        "false": {
+          "false_negative": 10000,
+          "false_positive": 0,
+          "true_negative": 10000,
+          "true_positive": 0,
+          "avg_errors": 727.1391,
+          "avg_free": null
+        }
+      },
+      "2": {
+        "true": {
+          "false_negative": 10000,
+          "false_positive": 0,
+          "true_negative": 10000,
+          "true_positive": 0,
+          "avg_errors": 64.7679,
+          "avg_free": null
+        },
+        "false": {
+          "false_negative": 0,
+          "false_positive": 0,
+          "true_negative": 10000,
+          "true_positive": 10000,
+          "avg_errors": 64.8183,
+          "avg_free": 0.0
+        }
+      },
+      "7": {
+        "false": {
+          "false_negative": 0,
+          "false_positive": 0,
+          "true_negative": 10000,
+          "true_positive": 10000,
+          "avg_errors": 1.3325,
+          "avg_free": 0.0
+        },
+        "true": {
+          "false_negative": 10000,
+          "false_positive": 0,
+          "true_negative": 10000,
+          "true_positive": 0,
+          "avg_errors": 1.3338,
+          "avg_free": null
+        }
+      }
+    }
+  },
+  "1": {
+    "52": {
+      "1": {
+        "false": {
+          "false_negative": 7979,
+          "false_positive": 0,
+          "true_negative": 10000,
+          "true_positive": 2021,
+          "avg_errors": 6.0838,
+          "avg_free": 0.0
+        },
+        "true": {
+          "false_negative": 10000,
+          "false_positive": 0,
+          "true_negative": 10000,
+          "true_positive": 0,
+          "avg_errors": 6.0829,
+          "avg_free": null
+        }
+      },
+      "1.5": {
+        "false": {
+          "false_negative": 6516,
+          "false_positive": 0,
+          "true_negative": 10000,
+          "true_positive": 3484,
+          "avg_errors": 5.0391,
+          "avg_free": 0.0
+        },
+        "true": {
+          "false_negative": 10000,
+          "false_positive": 0,
+          "true_negative": 10000,
+          "true_positive": 0,
+          "avg_errors": 5.0029,
+          "avg_free": null
+        }
+      },
+      "-7": {
+        "false": {
+          "false_negative": 10000,
+          "false_positive": 0,
+          "true_negative": 10000,
+          "true_positive": 0,
+          "avg_errors": 28.5547,
+          "avg_free": null
+        },
+        "true": {
+          "false_negative": 10000,
+          "false_positive": 0,
+          "true_negative": 10000,
+          "true_positive": 0,
+          "avg_errors": 28.474,
+          "avg_free": null
+        }
+      },
+      "-4": {
+        "false": {
+          "false_negative": 10000,
+          "false_positive": 0,
+          "true_negative": 10000,
+          "true_positive": 0,
+          "avg_errors": 20.1546,
+          "avg_free": null
+        },
+        "true": {
+          "false_negative": 10000,
+          "false_positive": 0,
+          "true_negative": 10000,
+          "true_positive": 0,
+          "avg_errors": 20.1408,
+          "avg_free": null
+        }
+      },
+      "-6": {
+        "false": {
+          "false_negative": 10000,
+          "false_positive": 0,
+          "true_negative": 10000,
+          "true_positive": 0,
+          "avg_errors": 25.8025,
+          "avg_free": null
+        },
+        "true": {
+          "false_negative": 10000,
+          "false_positive": 0,
+          "true_negative": 10000,
+          "true_positive": 0,
+          "avg_errors": 25.8641,
+          "avg_free": null
+        }
+      },
+      "2.5": {
+        "false": {
+          "false_negative": 2960,
+          "false_positive": 0,
+          "true_negative": 10000,
+          "true_positive": 7040,
+          "avg_errors": 3.1962,
+          "avg_free": 0.0
+        },
+        "true": {
+          "false_negative": 9999,
+          "false_positive": 0,
+          "true_negative": 10000,
+          "true_positive": 1,
+          "avg_errors": 3.1943,
+          "avg_free": 0.0
+        }
+      },
+      "-6.5": {
+        "false": {
+          "false_negative": 10000,
+          "false_positive": 0,
+          "true_negative": 10000,
+          "true_positive": 0,
+          "avg_errors": 27.228,
+          "avg_free": null
+        },
+        "true": {
+          "false_negative": 10000,
+          "false_positive": 0,
+          "true_negative": 10000,
+          "true_positive": 0,
+          "avg_errors": 27.2239,
+          "avg_free": null
+        }
+      },
+      "9": {
+        "false": {
+          "false_negative": 0,
+          "false_positive": 0,
+          "true_negative": 10000,
+          "true_positive": 10000,
+          "avg_errors": 0.0034,
+          "avg_free": 0.0
+        },
+        "true": {
+          "false_negative": 10000,
+          "false_positive": 0,
+          "true_negative": 10000,
+          "true_positive": 0,
+          "avg_errors": 0.0033,
+          "avg_free": null
+        }
+      },
+      "-8": {
+        "false": {
+          "false_negative": 10000,
+          "false_positive": 0,
+          "true_negative": 10000,
+          "true_positive": 0,
+          "avg_errors": 31.0102,
+          "avg_free": null
+        },
+        "true": {
+          "false_negative": 10000,
+          "false_positive": 0,
+          "true_negative": 10000,
+          "true_positive": 0,
+          "avg_errors": 31.0445,
+          "avg_free": null
+        }
+      },
+      "8": {
+        "false": {
+          "false_negative": 0,
+          "false_positive": 0,
+          "true_negative": 10000,
+          "true_positive": 10000,
+          "avg_errors": 0.0205,
+          "avg_free": 0.0
+        },
+        "true": {
+          "false_negative": 9999,
+          "false_positive": 0,
+          "true_negative": 10000,
+          "true_positive": 1,
+          "avg_errors": 0.0226,
+          "avg_free": 0.0
+        }
+      },
+      "7.5": {
+        "true": {
+          "false_negative": 10000,
+          "false_positive": 0,
+          "true_negative": 10000,
+          "true_positive": 0,
+          "avg_errors": 0.0421,
+          "avg_free": null
+        },
+        "false": {
+          "false_negative": 0,
+          "false_positive": 0,
+          "true_negative": 10000,
+          "true_positive": 10000,
+          "avg_errors": 0.0441,
+          "avg_free": 0.0
+        }
+      },
+      "-17": {
+        "false": {
+          "false_negative": 10000,
+          "false_positive": 0,
+          "true_negative": 10000,
+          "true_positive": 0,
+          "avg_errors": 45.448,
+          "avg_free": null
+        },
+        "true": {
+          "false_negative": 10000,
+          "false_positive": 0,
+          "true_negative": 10000,
+          "true_positive": 0,
+          "avg_errors": 45.447,
+          "avg_free": null
+        }
+      },
+      "3.5": {
+        "false": {
+          "false_negative": 762,
+          "false_positive": 0,
+          "true_negative": 10000,
+          "true_positive": 9238,
+          "avg_errors": 1.8422,
+          "avg_free": 0.0
+        },
+        "true": {
+          "false_negative": 10000,
+          "false_positive": 0,
+          "true_negative": 10000,
+          "true_positive": 0,
+          "avg_errors": 1.836,
+          "avg_free": null
+        }
+      },
+      "-3": {
+        "true": {
+          "false_negative": 10000,
+          "false_positive": 0,
+          "true_negative": 10000,
+          "true_positive": 0,
+          "avg_errors": 17.0906,
+          "avg_free": null
+        },
+        "false": {
+          "false_negative": 10000,
+          "false_positive": 0,
+          "true_negative": 10000,
+          "true_positive": 0,
+          "avg_errors": 17.1289,
+          "avg_free": null
+        }
+      },
+      "-19": {
+        "false": {
+          "false_negative": 10000,
+          "false_positive": 0,
+          "true_negative": 10000,
+          "true_positive": 0,
+          "avg_errors": 47.2059,
+          "avg_free": null
+        },
+        "true": {
+          "false_negative": 10000,
+          "false_positive": 0,
+          "true_negative": 10000,
+          "true_positive": 0,
+          "avg_errors": 47.2095,
+          "avg_free": null
+        }
+      },
+      "-1.5": {
+        "false": {
+          "false_negative": 9986,
+          "false_positive": 0,
+          "true_negative": 10000,
+          "true_positive": 14,
+          "avg_errors": 12.6772,
+          "avg_free": 0.0
+        },
+        "true": {
+          "false_negative": 10000,
+          "false_positive": 0,
+          "true_negative": 10000,
+          "true_positive": 0,
+          "avg_errors": 12.6797,
+          "avg_free": null
+        }
+      },
+      "0.5": {
+        "false": {
+          "false_negative": 8998,
+          "false_positive": 0,
+          "true_negative": 10000,
+          "true_positive": 1002,
+          "avg_errors": 7.2439,
+          "avg_free": 0.0
+        },
+        "true": {
+          "false_negative": 10000,
+          "false_positive": 0,
+          "true_negative": 10000,
+          "true_positive": 0,
+          "avg_errors": 7.2668,
+          "avg_free": null
+        }
+      },
+      "-1": {
+        "true": {
+          "false_negative": 10000,
+          "false_positive": 0,
+          "true_negative": 10000,
+          "true_positive": 0,
+          "avg_errors": 11.2309,
+          "avg_free": null
+        },
+        "false": {
+          "false_negative": 9951,
+          "false_positive": 0,
+          "true_negative": 10000,
+          "true_positive": 49,
+          "avg_errors": 11.1881,
+          "avg_free": 0.0
+        }
+      },
+      "-2.5": {
+        "false": {
+          "false_negative": 10000,
+          "false_positive": 0,
+          "true_negative": 10000,
+          "true_positive": 0,
+          "avg_errors": 15.6146,
+          "avg_free": null
+        },
+        "true": {
+          "false_negative": 10000,
+          "false_positive": 0,
+          "true_negative": 10000,
+          "true_positive": 0,
+          "avg_errors": 15.5765,
+          "avg_free": null
+        }
+      },
+      "7": {
+        "true": {
+          "false_negative": 9999,
+          "false_positive": 0,
+          "true_negative": 10000,
+          "true_positive": 1,
+          "avg_errors": 0.0836,
+          "avg_free": 0.0
+        },
+        "false": {
+          "false_negative": 0,
+          "false_positive": 0,
+          "true_negative": 10000,
+          "true_positive": 10000,
+          "avg_errors": 0.0861,
+          "avg_free": 0.0
+        }
+      },
+      "-14": {
+        "false": {
+          "false_negative": 10000,
+          "false_positive": 0,
+          "true_negative": 10000,
+          "true_positive": 0,
+          "avg_errors": 41.966,
+          "avg_free": null
+        },
+        "true": {
+          "false_negative": 10000,
+          "false_positive": 0,
+          "true_negative": 10000,
+          "true_positive": 0,
+          "avg_errors": 41.9859,
+          "avg_free": null
+        }
+      },
+      "6.5": {
+        "true": {
+          "false_negative": 9999,
+          "false_positive": 0,
+          "true_negative": 10000,
+          "true_positive": 1,
+          "avg_errors": 0.1535,
+          "avg_free": 0.0
+        },
+        "false": {
+          "false_negative": 1,
+          "false_positive": 0,
+          "true_negative": 10000,
+          "true_positive": 9999,
+          "avg_errors": 0.1585,
+          "avg_free": 0.0
+        }
+      },
+      "-10": {
+        "false": {
+          "false_negative": 10000,
+          "false_positive": 0,
+          "true_negative": 10000,
+          "true_positive": 0,
+          "avg_errors": 35.3458,
+          "avg_free": null
+        },
+        "true": {
+          "false_negative": 10000,
+          "false_positive": 0,
+          "true_negative": 10000,
+          "true_positive": 0,
+          "avg_errors": 35.3502,
+          "avg_free": null
+        }
+      },
+      "4.5": {
+        "false": {
+          "false_negative": 114,
+          "false_positive": 0,
+          "true_negative": 10000,
+          "true_positive": 9886,
+          "avg_errors": 0.9455,
+          "avg_free": 0.0
+        },
+        "true": {
+          "false_negative": 9999,
+          "false_positive": 0,
+          "true_negative": 10000,
+          "true_positive": 1,
+          "avg_errors": 0.9564,
+          "avg_free": 0.0
+        }
+      },
+      "6": {
+        "false": {
+          "false_negative": 1,
+          "false_positive": 0,
+          "true_negative": 10000,
+          "true_positive": 9999,
+          "avg_errors": 0.258,
+          "avg_free": 0.0
+        },
+        "true": {
+          "false_negative": 10000,
+          "false_positive": 0,
+          "true_negative": 10000,
+          "true_positive": 0,
+          "avg_errors": 0.2589,
+          "avg_free": null
+        }
+      },
+      "-7.5": {
+        "true": {
+          "false_negative": 10000,
+          "false_positive": 0,
+          "true_negative": 10000,
+          "true_positive": 0,
+          "avg_errors": 29.7971,
+          "avg_free": null
+        },
+        "false": {
+          "false_negative": 10000,
+          "false_positive": 0,
+          "true_negative": 10000,
+          "true_positive": 0,
+          "avg_errors": 29.8164,
+          "avg_free": null
+        }
+      },
+      "3": {
+        "true": {
+          "false_negative": 9999,
+          "false_positive": 0,
+          "true_negative": 10000,
+          "true_positive": 1,
+          "avg_errors": 2.4668,
+          "avg_free": 0.0
+        },
+        "false": {
+          "false_negative": 1655,
+          "false_positive": 0,
+          "true_negative": 10000,
+          "true_positive": 8345,
+          "avg_errors": 2.5078,
+          "avg_free": 0.0
+        }
+      },
+      "5": {
+        "true": {
+          "false_negative": 10000,
+          "false_positive": 0,
+          "true_negative": 10000,
+          "true_positive": 0,
+          "avg_errors": 0.6483,
+          "avg_free": null
+        },
+        "false": {
+          "false_negative": 26,
+          "false_positive": 0,
+          "true_negative": 10000,
+          "true_positive": 9974,
+          "avg_errors": 0.6443,
+          "avg_free": 0.0
+        }
+      },
+      "5.5": {
+        "false": {
+          "false_negative": 8,
+          "false_positive": 0,
+          "true_negative": 10000,
+          "true_positive": 9992,
+          "avg_errors": 0.4283,
+          "avg_free": 0.0
+        },
+        "true": {
+          "false_negative": 10000,
+          "false_positive": 0,
+          "true_negative": 10000,
+          "true_positive": 0,
+          "avg_errors": 0.4075,
+          "avg_free": null
+        }
+      },
+      "-4.5": {
+        "false": {
+          "false_negative": 10000,
+          "false_positive": 0,
+          "true_negative": 10000,
+          "true_positive": 0,
+          "avg_errors": 21.5308,
+          "avg_free": null
+        },
+        "true": {
+          "false_negative": 10000,
+          "false_positive": 0,
+          "true_negative": 10000,
+          "true_positive": 0,
+          "avg_errors": 21.5949,
+          "avg_free": null
+        }
+      },
+      "8.5": {
+        "false": {
+          "false_negative": 0,
+          "false_positive": 0,
+          "true_negative": 10000,
+          "true_positive": 10000,
+          "avg_errors": 0.0109,
+          "avg_free": 0.0
+        },
+        "true": {
+          "false_negative": 10000,
+          "false_positive": 0,
+          "true_negative": 10000,
+          "true_positive": 0,
+          "avg_errors": 0.0086,
+          "avg_free": null
+        }
+      },
+      "-5": {
+        "true": {
+          "false_negative": 10000,
+          "false_positive": 0,
+          "true_negative": 10000,
+          "true_positive": 0,
+          "avg_errors": 23.054,
+          "avg_free": null
+        },
+        "false": {
+          "false_negative": 10000,
+          "false_positive": 0,
+          "true_negative": 10000,
+          "true_positive": 0,
+          "avg_errors": 23.0545,
+          "avg_free": null
+        }
+      },
+      "-3.5": {
+        "false": {
+          "false_negative": 10000,
+          "false_positive": 0,
+          "true_negative": 10000,
+          "true_positive": 0,
+          "avg_errors": 18.6472,
+          "avg_free": null
+        },
+        "true": {
+          "false_negative": 10000,
+          "false_positive": 0,
+          "true_negative": 10000,
+          "true_positive": 0,
+          "avg_errors": 18.5935,
+          "avg_free": null
+        }
+      },
+      "-2": {
+        "false": {
+          "false_negative": 9997,
+          "false_positive": 0,
+          "true_negative": 10000,
+          "true_positive": 3,
+          "avg_errors": 14.0308,
+          "avg_free": 0.0
+        },
+        "true": {
+          "false_negative": 10000,
+          "false_positive": 0,
+          "true_negative": 10000,
+          "true_positive": 0,
+          "avg_errors": 14.1055,
+          "avg_free": null
+        }
+      },
+      "-13": {
+        "true": {
+          "false_negative": 10000,
+          "false_positive": 0,
+          "true_negative": 10000,
+          "true_positive": 0,
+          "avg_errors": 40.5426,
+          "avg_free": null
+        },
+        "false": {
+          "false_negative": 10000,
+          "false_positive": 0,
+          "true_negative": 10000,
+          "true_positive": 0,
+          "avg_errors": 40.5523,
+          "avg_free": null
+        }
+      },
+      "-5.5": {
+        "false": {
+          "false_negative": 9999,
+          "false_positive": 1,
+          "true_negative": 10000,
+          "true_positive": 0,
+          "avg_errors": 24.435,
+          "avg_free": null
+        },
+        "true": {
+          "false_negative": 10000,
+          "false_positive": 0,
+          "true_negative": 10000,
+          "true_positive": 0,
+          "avg_errors": 24.4466,
+          "avg_free": null
+        }
+      },
+      "-12": {
+        "true": {
+          "false_negative": 10000,
+          "false_positive": 0,
+          "true_negative": 10000,
+          "true_positive": 0,
+          "avg_errors": 39.0446,
+          "avg_free": null
+        },
+        "false": {
+          "false_negative": 10000,
+          "false_positive": 0,
+          "true_negative": 10000,
+          "true_positive": 0,
+          "avg_errors": 38.9445,
+          "avg_free": null
+        }
+      },
+      "-20": {
+        "false": {
+          "false_negative": 10000,
+          "false_positive": 0,
+          "true_negative": 10000,
+          "true_positive": 0,
+          "avg_errors": 47.8902,
+          "avg_free": null
+        },
+        "true": {
+          "false_negative": 10000,
+          "false_positive": 0,
+          "true_negative": 10000,
+          "true_positive": 0,
+          "avg_errors": 47.8555,
+          "avg_free": null
+        }
+      },
+      "-18": {
+        "false": {
+          "false_negative": 10000,
+          "false_positive": 0,
+          "true_negative": 10000,
+          "true_positive": 0,
+          "avg_errors": 46.4906,
+          "avg_free": null
+        },
+        "true": {
+          "false_negative": 10000,
+          "false_positive": 0,
+          "true_negative": 10000,
+          "true_positive": 0,
+          "avg_errors": 46.3773,
+          "avg_free": null
+        }
+      },
+      "4": {
+        "true": {
+          "false_negative": 9998,
+          "false_positive": 0,
+          "true_negative": 10000,
+          "true_positive": 2,
+          "avg_errors": 1.3554,
+          "avg_free": 0.0
+        },
+        "false": {
+          "false_negative": 300,
+          "false_positive": 0,
+          "true_negative": 10000,
+          "true_positive": 9700,
+          "avg_errors": 1.3577,
+          "avg_free": 0.0
+        }
+      },
+      "-0.5": {
+        "false": {
+          "false_negative": 9862,
+          "false_positive": 0,
+          "true_negative": 10000,
+          "true_positive": 138,
+          "avg_errors": 9.8452,
+          "avg_free": 0.0
+        },
+        "true": {
+          "false_negative": 10000,
+          "false_positive": 0,
+          "true_negative": 10000,
+          "true_positive": 0,
+          "avg_errors": 9.8253,
+          "avg_free": null
+        }
+      },
+      "2": {
+        "false": {
+          "false_negative": 4754,
+          "false_positive": 0,
+          "true_negative": 10000,
+          "true_positive": 5246,
+          "avg_errors": 4.0457,
+          "avg_free": 0.0
+        },
+        "true": {
+          "false_negative": 10000,
+          "false_positive": 0,
+          "true_negative": 10000,
+          "true_positive": 0,
+          "avg_errors": 4.0706,
+          "avg_free": null
+        }
+      },
+      "-8.5": {
+        "true": {
+          "false_negative": 10000,
+          "false_positive": 0,
+          "true_negative": 10000,
+          "true_positive": 0,
+          "avg_errors": 32.1205,
+          "avg_free": null
+        },
+        "false": {
+          "false_negative": 10000,
+          "false_positive": 0,
+          "true_negative": 10000,
+          "true_positive": 0,
+          "avg_errors": 32.1351,
+          "avg_free": null
+        }
+      },
+      "0": {
+        "true": {
+          "false_negative": 9999,
+          "false_positive": 0,
+          "true_negative": 10000,
+          "true_positive": 1,
+          "avg_errors": 8.5494,
+          "avg_free": 0.0
+        },
+        "false": {
+          "false_negative": 9618,
+          "false_positive": 0,
+          "true_negative": 10000,
+          "true_positive": 382,
+          "avg_errors": 8.5252,
+          "avg_free": 0.0
+        }
+      },
+      "-16": {
+        "true": {
+          "false_negative": 10000,
+          "false_positive": 0,
+          "true_negative": 10000,
+          "true_positive": 0,
+          "avg_errors": 44.4526,
+          "avg_free": null
+        },
+        "false": {
+          "false_negative": 10000,
+          "false_positive": 0,
+          "true_negative": 10000,
+          "true_positive": 0,
+          "avg_errors": 44.4372,
+          "avg_free": null
+        }
+      },
+      "10": {
+        "false": {
+          "false_negative": 0,
+          "false_positive": 0,
+          "true_negative": 10000,
+          "true_positive": 10000,
+          "avg_errors": 0.0004,
+          "avg_free": 0.0
+        },
+        "true": {
+          "false_negative": 10000,
+          "false_positive": 0,
+          "true_negative": 10000,
+          "true_positive": 0,
+          "avg_errors": 0.0002,
+          "avg_free": null
+        }
+      },
+      "-11": {
+        "true": {
+          "false_negative": 10000,
+          "false_positive": 0,
+          "true_negative": 10000,
+          "true_positive": 0,
+          "avg_errors": 37.2807,
+          "avg_free": null
+        },
+        "false": {
+          "false_negative": 10000,
+          "false_positive": 0,
+          "true_negative": 10000,
+          "true_positive": 0,
+          "avg_errors": 37.1595,
+          "avg_free": null
+        }
+      },
+      "-9": {
+        "false": {
+          "false_negative": 10000,
+          "false_positive": 0,
+          "true_negative": 10000,
+          "true_positive": 0,
+          "avg_errors": 33.2823,
+          "avg_free": null
+        },
+        "true": {
+          "false_negative": 10000,
+          "false_positive": 0,
+          "true_negative": 10000,
+          "true_positive": 0,
+          "avg_errors": 33.2637,
+          "avg_free": null
+        }
+      },
+      "-15": {
+        "false": {
+          "false_negative": 10000,
+          "false_positive": 0,
+          "true_negative": 10000,
+          "true_positive": 0,
+          "avg_errors": 43.2469,
+          "avg_free": null
+        },
+        "true": {
+          "false_negative": 10000,
+          "false_positive": 0,
+          "true_negative": 10000,
+          "true_positive": 0,
+          "avg_errors": 43.2313,
+          "avg_free": null
+        }
+      }
+    }
+  },
+  "2": {
+    "140": {
+      "-0.5": {
+        "false": {
+          "false_negative": 10000,
+          "false_positive": 0,
+          "true_negative": 10000,
+          "true_positive": 0,
+          "avg_errors": 19.6519,
+          "avg_free": null
+        },
+        "true": {
+          "false_negative": 10000,
+          "false_positive": 0,
+          "true_negative": 10000,
+          "true_positive": 0,
+          "avg_errors": 19.6276,
+          "avg_free": null
+        }
+      },
+      "-6.5": {
+        "true": {
+          "false_negative": 10000,
+          "false_positive": 0,
+          "true_negative": 10000,
+          "true_positive": 0,
+          "avg_errors": 54.3806,
+          "avg_free": null
+        },
+        "false": {
+          "false_negative": 10000,
+          "false_positive": 0,
+          "true_negative": 10000,
+          "true_positive": 0,
+          "avg_errors": 54.3362,
+          "avg_free": null
+        }
+      },
+      "10": {
+        "true": {
+          "false_negative": 10000,
+          "false_positive": 0,
+          "true_negative": 10000,
+          "true_positive": 0,
+          "avg_errors": 0.0011,
+          "avg_free": null
+        },
+        "false": {
+          "false_negative": 9379,
+          "false_positive": 0,
+          "true_negative": 10000,
+          "true_positive": 621,
+          "avg_errors": 0.0014,
+          "avg_free": 0.0
+        }
+      },
+      "-13": {
+        "false": {
+          "false_negative": 10000,
+          "false_positive": 0,
+          "true_negative": 10000,
+          "true_positive": 0,
+          "avg_errors": 81.1935,
+          "avg_free": null
+        },
+        "true": {
+          "false_negative": 10000,
+          "false_positive": 0,
+          "true_negative": 10000,
+          "true_positive": 0,
+          "avg_errors": 81.1825,
+          "avg_free": null
+        }
+      },
+      "-10": {
+        "false": {
+          "false_negative": 10000,
+          "false_positive": 0,
+          "true_negative": 10000,
+          "true_positive": 0,
+          "avg_errors": 70.8433,
+          "avg_free": null
+        },
+        "true": {
+          "false_negative": 10000,
+          "false_positive": 0,
+          "true_negative": 10000,
+          "true_positive": 0,
+          "avg_errors": 70.7485,
+          "avg_free": null
+        }
+      },
+      "-17": {
+        "true": {
+          "false_negative": 10000,
+          "false_positive": 0,
+          "true_negative": 10000,
+          "true_positive": 0,
+          "avg_errors": 90.9248,
+          "avg_free": null
+        },
+        "false": {
+          "false_negative": 10000,
+          "false_positive": 0,
+          "true_negative": 10000,
+          "true_positive": 0,
+          "avg_errors": 90.882,
+          "avg_free": null
+        }
+      },
+      "-11": {
+        "true": {
+          "false_negative": 10000,
+          "false_positive": 0,
+          "true_negative": 10000,
+          "true_positive": 0,
+          "avg_errors": 74.5756,
+          "avg_free": null
+        },
+        "false": {
+          "false_negative": 10000,
+          "false_positive": 0,
+          "true_negative": 10000,
+          "true_positive": 0,
+          "avg_errors": 74.5551,
+          "avg_free": null
+        }
+      },
+      "9": {
+        "false": {
+          "false_negative": 9397,
+          "false_positive": 0,
+          "true_negative": 10000,
+          "true_positive": 603,
+          "avg_errors": 0.0067,
+          "avg_free": 0.0
+        },
+        "true": {
+          "false_negative": 10000,
+          "false_positive": 0,
+          "true_negative": 10000,
+          "true_positive": 0,
+          "avg_errors": 0.0072,
+          "avg_free": null
+        }
+      },
+      "-9": {
+        "false": {
+          "false_negative": 10000,
+          "false_positive": 0,
+          "true_negative": 10000,
+          "true_positive": 0,
+          "avg_errors": 66.5504,
+          "avg_free": null
+        },
+        "true": {
+          "false_negative": 10000,
+          "false_positive": 0,
+          "true_negative": 10000,
+          "true_positive": 0,
+          "avg_errors": 66.3209,
+          "avg_free": null
+        }
+      },
+      "-8.5": {
+        "false": {
+          "false_negative": 10000,
+          "false_positive": 0,
+          "true_negative": 10000,
+          "true_positive": 0,
+          "avg_errors": 64.1757,
+          "avg_free": null
+        },
+        "true": {
+          "false_negative": 10000,
+          "false_positive": 0,
+          "true_negative": 10000,
+          "true_positive": 0,
+          "avg_errors": 64.2625,
+          "avg_free": null
+        }
+      },
+      "-19": {
+        "false": {
+          "false_negative": 10000,
+          "false_positive": 0,
+          "true_negative": 10000,
+          "true_positive": 0,
+          "avg_errors": 94.365,
+          "avg_free": null
+        },
+        "true": {
+          "false_negative": 10000,
+          "false_positive": 0,
+          "true_negative": 10000,
+          "true_positive": 0,
+          "avg_errors": 94.3217,
+          "avg_free": null
+        }
+      },
+      "8": {
+        "true": {
+          "false_negative": 10000,
+          "false_positive": 0,
+          "true_negative": 10000,
+          "true_positive": 0,
+          "avg_errors": 0.0449,
+          "avg_free": null
+        },
+        "false": {
+          "false_negative": 9350,
+          "false_positive": 0,
+          "true_negative": 10000,
+          "true_positive": 650,
+          "avg_errors": 0.0389,
+          "avg_free": 0.0
+        }
+      },
+      "-4.5": {
+        "false": {
+          "false_negative": 10000,
+          "false_positive": 0,
+          "true_negative": 10000,
+          "true_positive": 0,
+          "avg_errors": 43.1862,
+          "avg_free": null
+        },
+        "true": {
+          "false_negative": 10000,
+          "false_positive": 0,
+          "true_negative": 10000,
+          "true_positive": 0,
+          "avg_errors": 43.2675,
+          "avg_free": null
+        }
+      },
+      "-5.5": {
+        "true": {
+          "false_negative": 10000,
+          "false_positive": 0,
+          "true_negative": 10000,
+          "true_positive": 0,
+          "avg_errors": 48.8785,
+          "avg_free": null
+        },
+        "false": {
+          "false_negative": 10000,
+          "false_positive": 0,
+          "true_negative": 10000,
+          "true_positive": 0,
+          "avg_errors": 48.8757,
+          "avg_free": null
+        }
+      },
+      "-1": {
+        "true": {
+          "false_negative": 10000,
+          "false_positive": 0,
+          "true_negative": 10000,
+          "true_positive": 0,
+          "avg_errors": 22.4592,
+          "avg_free": null
+        },
+        "false": {
+          "false_negative": 10000,
+          "false_positive": 1,
+          "true_negative": 9999,
+          "true_positive": 0,
+          "avg_errors": 22.5209,
+          "avg_free": null
+        }
+      },
+      "-20": {
+        "false": {
+          "false_negative": 10000,
+          "false_positive": 0,
+          "true_negative": 10000,
+          "true_positive": 0,
+          "avg_errors": 95.918,
+          "avg_free": null
+        },
+        "true": {
+          "false_negative": 10000,
+          "false_positive": 0,
+          "true_negative": 10000,
+          "true_positive": 0,
+          "avg_errors": 95.8184,
+          "avg_free": null
+        }
+      },
+      "-7.5": {
+        "false": {
+          "false_negative": 10000,
+          "false_positive": 0,
+          "true_negative": 10000,
+          "true_positive": 0,
+          "avg_errors": 59.5669,
+          "avg_free": null
+        },
+        "true": {
+          "false_negative": 10000,
+          "false_positive": 0,
+          "true_negative": 10000,
+          "true_positive": 0,
+          "avg_errors": 59.4388,
+          "avg_free": null
+        }
+      },
+      "-16": {
+        "false": {
+          "false_negative": 10000,
+          "false_positive": 0,
+          "true_negative": 10000,
+          "true_positive": 0,
+          "avg_errors": 88.7782,
+          "avg_free": null
+        },
+        "true": {
+          "false_negative": 10000,
+          "false_positive": 0,
+          "true_negative": 10000,
+          "true_positive": 0,
+          "avg_errors": 88.7491,
+          "avg_free": null
+        }
+      },
+      "-15": {
+        "false": {
+          "false_negative": 10000,
+          "false_positive": 0,
+          "true_negative": 10000,
+          "true_positive": 0,
+          "avg_errors": 86.433,
+          "avg_free": null
+        },
+        "true": {
+          "false_negative": 10000,
+          "false_positive": 0,
+          "true_negative": 10000,
+          "true_positive": 0,
+          "avg_errors": 86.4996,
+          "avg_free": null
+        }
+      },
+      "5.5": {
+        "false": {
+          "false_negative": 9388,
+          "false_positive": 0,
+          "true_negative": 10000,
+          "true_positive": 612,
+          "avg_errors": 0.8363,
+          "avg_free": 0.0
+        },
+        "true": {
+          "false_negative": 10000,
+          "false_positive": 0,
+          "true_negative": 10000,
+          "true_positive": 0,
+          "avg_errors": 0.8247,
+          "avg_free": null
+        }
+      },
+      "-8": {
+        "false": {
+          "false_negative": 10000,
+          "false_positive": 0,
+          "true_negative": 10000,
+          "true_positive": 0,
+          "avg_errors": 61.8704,
+          "avg_free": null
+        },
+        "true": {
+          "false_negative": 10000,
+          "false_positive": 0,
+          "true_negative": 10000,
+          "true_positive": 0,
+          "avg_errors": 61.9832,
+          "avg_free": null
+        }
+      },
+      "0.5": {
+        "true": {
+          "false_negative": 10000,
+          "false_positive": 0,
+          "true_negative": 10000,
+          "true_positive": 0,
+          "avg_errors": 14.4882,
+          "avg_free": null
+        },
+        "false": {
+          "false_negative": 10000,
+          "false_positive": 0,
+          "true_negative": 10000,
+          "true_positive": 0,
+          "avg_errors": 14.4459,
+          "avg_free": null
+        }
+      },
+      "-18": {
+        "false": {
+          "false_negative": 10000,
+          "false_positive": 0,
+          "true_negative": 10000,
+          "true_positive": 0,
+          "avg_errors": 92.7638,
+          "avg_free": null
+        },
+        "true": {
+          "false_negative": 10000,
+          "false_positive": 0,
+          "true_negative": 10000,
+          "true_positive": 0,
+          "avg_errors": 92.8335,
+          "avg_free": null
+        }
+      },
+      "-1.5": {
+        "true": {
+          "false_negative": 10000,
+          "false_positive": 0,
+          "true_negative": 10000,
+          "true_positive": 0,
+          "avg_errors": 25.1829,
+          "avg_free": null
+        },
+        "false": {
+          "false_negative": 10000,
+          "false_positive": 0,
+          "true_negative": 10000,
+          "true_positive": 0,
+          "avg_errors": 25.3059,
+          "avg_free": null
+        }
+      },
+      "-2": {
+        "true": {
+          "false_negative": 10000,
+          "false_positive": 0,
+          "true_negative": 10000,
+          "true_positive": 0,
+          "avg_errors": 28.2273,
+          "avg_free": null
+        },
+        "false": {
+          "false_negative": 10000,
+          "false_positive": 0,
+          "true_negative": 10000,
+          "true_positive": 0,
+          "avg_errors": 28.1717,
+          "avg_free": null
+        }
+      },
+      "-6": {
+        "true": {
+          "false_negative": 10000,
+          "false_positive": 0,
+          "true_negative": 10000,
+          "true_positive": 0,
+          "avg_errors": 51.7243,
+          "avg_free": null
+        },
+        "false": {
+          "false_negative": 10000,
+          "false_positive": 0,
+          "true_negative": 10000,
+          "true_positive": 0,
+          "avg_errors": 51.6943,
+          "avg_free": null
+        }
+      },
+      "2.5": {
+        "true": {
+          "false_negative": 10000,
+          "false_positive": 0,
+          "true_negative": 10000,
+          "true_positive": 0,
+          "avg_errors": 6.3726,
+          "avg_free": null
+        },
+        "false": {
+          "false_negative": 9926,
+          "false_positive": 0,
+          "true_negative": 10000,
+          "true_positive": 74,
+          "avg_errors": 6.4397,
+          "avg_free": 0.0
+        }
+      },
+      "2": {
+        "true": {
+          "false_negative": 10000,
+          "false_positive": 0,
+          "true_negative": 10000,
+          "true_positive": 0,
+          "avg_errors": 8.085,
+          "avg_free": null
+        },
+        "false": {
+          "false_negative": 9958,
+          "false_positive": 0,
+          "true_negative": 10000,
+          "true_positive": 42,
+          "avg_errors": 8.1541,
+          "avg_free": 0.0
+        }
+      },
+      "4": {
+        "false": {
+          "false_negative": 9573,
+          "false_positive": 0,
+          "true_negative": 10000,
+          "true_positive": 427,
+          "avg_errors": 2.7295,
+          "avg_free": 0.0
+        },
+        "true": {
+          "false_negative": 10000,
+          "false_positive": 0,
+          "true_negative": 10000,
+          "true_positive": 0,
+          "avg_errors": 2.7136,
+          "avg_free": null
+        }
+      },
+      "-7": {
+        "false": {
+          "false_negative": 10000,
+          "false_positive": 0,
+          "true_negative": 10000,
+          "true_positive": 0,
+          "avg_errors": 56.9313,
+          "avg_free": null
+        },
+        "true": {
+          "false_negative": 10000,
+          "false_positive": 0,
+          "true_negative": 10000,
+          "true_positive": 0,
+          "avg_errors": 57.0009,
+          "avg_free": null
+        }
+      },
+      "-14": {
+        "false": {
+          "false_negative": 10000,
+          "false_positive": 0,
+          "true_negative": 10000,
+          "true_positive": 0,
+          "avg_errors": 83.9055,
+          "avg_free": null
+        },
+        "true": {
+          "false_negative": 10000,
+          "false_positive": 0,
+          "true_negative": 10000,
+          "true_positive": 0,
+          "avg_errors": 84.0054,
+          "avg_free": null
+        }
+      },
+      "6.5": {
+        "false": {
+          "false_negative": 9355,
+          "false_positive": 0,
+          "true_negative": 10000,
+          "true_positive": 645,
+          "avg_errors": 0.3015,
+          "avg_free": 0.0
+        },
+        "true": {
+          "false_negative": 10000,
+          "false_positive": 0,
+          "true_negative": 10000,
+          "true_positive": 0,
+          "avg_errors": 0.3017,
+          "avg_free": null
+        }
+      },
+      "3": {
+        "false": {
+          "false_negative": 9827,
+          "false_positive": 0,
+          "true_negative": 10000,
+          "true_positive": 173,
+          "avg_errors": 4.9201,
+          "avg_free": 0.0
+        },
+        "true": {
+          "false_negative": 10000,
+          "false_positive": 0,
+          "true_negative": 10000,
+          "true_positive": 0,
+          "avg_errors": 4.9354,
+          "avg_free": null
+        }
+      },
+      "5": {
+        "true": {
+          "false_negative": 10000,
+          "false_positive": 0,
+          "true_negative": 10000,
+          "true_positive": 0,
+          "avg_errors": 1.3023,
+          "avg_free": null
+        },
+        "false": {
+          "false_negative": 9448,
+          "false_positive": 0,
+          "true_negative": 10000,
+          "true_positive": 552,
+          "avg_errors": 1.2885,
+          "avg_free": 0.0
+        }
+      },
+      "1": {
+        "false": {
+          "false_negative": 9999,
+          "false_positive": 0,
+          "true_negative": 10000,
+          "true_positive": 1,
+          "avg_errors": 12.1651,
+          "avg_free": 0.0
+        },
+        "true": {
+          "false_negative": 10000,
+          "false_positive": 0,
+          "true_negative": 10000,
+          "true_positive": 0,
+          "avg_errors": 12.2041,
+          "avg_free": null
+        }
+      },
+      "-2.5": {
+        "false": {
+          "false_negative": 10000,
+          "false_positive": 0,
+          "true_negative": 10000,
+          "true_positive": 0,
+          "avg_errors": 31.2461,
+          "avg_free": null
+        },
+        "true": {
+          "false_negative": 10000,
+          "false_positive": 0,
+          "true_negative": 10000,
+          "true_positive": 0,
+          "avg_errors": 31.1341,
+          "avg_free": null
+        }
+      },
+      "1.5": {
+        "true": {
+          "false_negative": 10000,
+          "false_positive": 0,
+          "true_negative": 10000,
+          "true_positive": 0,
+          "avg_errors": 10.0589,
+          "avg_free": null
+        },
+        "false": {
+          "false_negative": 9991,
+          "false_positive": 0,
+          "true_negative": 10000,
+          "true_positive": 9,
+          "avg_errors": 9.9974,
+          "avg_free": 0.0
+        }
+      },
+      "7.5": {
+        "false": {
+          "false_negative": 9351,
+          "false_positive": 0,
+          "true_negative": 10000,
+          "true_positive": 649,
+          "avg_errors": 0.0806,
+          "avg_free": 0.0
+        },
+        "true": {
+          "false_negative": 10000,
+          "false_positive": 0,
+          "true_negative": 10000,
+          "true_positive": 0,
+          "avg_errors": 0.0848,
+          "avg_free": null
+        }
+      },
+      "4.5": {
+        "false": {
+          "false_negative": 9483,
+          "false_positive": 0,
+          "true_negative": 10000,
+          "true_positive": 517,
+          "avg_errors": 1.9108,
+          "avg_free": 0.0
+        },
+        "true": {
+          "false_negative": 10000,
+          "false_positive": 0,
+          "true_negative": 10000,
+          "true_positive": 0,
+          "avg_errors": 1.9101,
+          "avg_free": null
+        }
+      },
+      "7": {
+        "true": {
+          "false_negative": 10000,
+          "false_positive": 0,
+          "true_negative": 10000,
+          "true_positive": 0,
+          "avg_errors": 0.1663,
+          "avg_free": null
+        },
+        "false": {
+          "false_negative": 9356,
+          "false_positive": 0,
+          "true_negative": 10000,
+          "true_positive": 644,
+          "avg_errors": 0.1669,
+          "avg_free": 0.0
+        }
+      },
+      "-12": {
+        "true": {
+          "false_negative": 10000,
+          "false_positive": 0,
+          "true_negative": 10000,
+          "true_positive": 0,
+          "avg_errors": 78.1705,
+          "avg_free": null
+        },
+        "false": {
+          "false_negative": 10000,
+          "false_positive": 0,
+          "true_negative": 10000,
+          "true_positive": 0,
+          "avg_errors": 77.9748,
+          "avg_free": null
+        }
+      },
+      "8.5": {
+        "false": {
+          "false_negative": 9330,
+          "false_positive": 0,
+          "true_negative": 10000,
+          "true_positive": 670,
+          "avg_errors": 0.0163,
+          "avg_free": 0.0
+        },
+        "true": {
+          "false_negative": 10000,
+          "false_positive": 0,
+          "true_negative": 10000,
+          "true_positive": 0,
+          "avg_errors": 0.0174,
+          "avg_free": null
+        }
+      },
+      "-5": {
+        "false": {
+          "false_negative": 10000,
+          "false_positive": 0,
+          "true_negative": 10000,
+          "true_positive": 0,
+          "avg_errors": 45.9788,
+          "avg_free": null
+        },
+        "true": {
+          "false_negative": 10000,
+          "false_positive": 0,
+          "true_negative": 10000,
+          "true_positive": 0,
+          "avg_errors": 45.9751,
+          "avg_free": null
+        }
+      },
+      "-3": {
+        "false": {
+          "false_negative": 10000,
+          "false_positive": 0,
+          "true_negative": 10000,
+          "true_positive": 0,
+          "avg_errors": 34.2407,
+          "avg_free": null
+        },
+        "true": {
+          "false_negative": 10000,
+          "false_positive": 0,
+          "true_negative": 10000,
+          "true_positive": 0,
+          "avg_errors": 34.2565,
+          "avg_free": null
+        }
+      },
+      "-4": {
+        "false": {
+          "false_negative": 10000,
+          "false_positive": 0,
+          "true_negative": 10000,
+          "true_positive": 0,
+          "avg_errors": 40.2266,
+          "avg_free": null
+        },
+        "true": {
+          "false_negative": 10000,
+          "false_positive": 0,
+          "true_negative": 10000,
+          "true_positive": 0,
+          "avg_errors": 40.1614,
+          "avg_free": null
+        }
+      },
+      "3.5": {
+        "false": {
+          "false_negative": 9722,
+          "false_positive": 0,
+          "true_negative": 10000,
+          "true_positive": 278,
+          "avg_errors": 3.7095,
+          "avg_free": 0.0
+        },
+        "true": {
+          "false_negative": 10000,
+          "false_positive": 0,
+          "true_negative": 10000,
+          "true_positive": 0,
+          "avg_errors": 3.7229,
+          "avg_free": null
+        }
+      },
+      "0": {
+        "false": {
+          "false_negative": 10000,
+          "false_positive": 0,
+          "true_negative": 10000,
+          "true_positive": 0,
+          "avg_errors": 16.9804,
+          "avg_free": null
+        },
+        "true": {
+          "false_negative": 10000,
+          "false_positive": 0,
+          "true_negative": 10000,
+          "true_positive": 0,
+          "avg_errors": 16.9627,
+          "avg_free": null
+        }
+      },
+      "6": {
+        "false": {
+          "false_negative": 9399,
+          "false_positive": 0,
+          "true_negative": 10000,
+          "true_positive": 601,
+          "avg_errors": 0.5172,
+          "avg_free": 0.0
+        },
+        "true": {
+          "false_negative": 10000,
+          "false_positive": 0,
+          "true_negative": 10000,
+          "true_positive": 0,
+          "avg_errors": 0.5091,
+          "avg_free": null
+        }
+      },
+      "-3.5": {
+        "false": {
+          "false_negative": 10000,
+          "false_positive": 0,
+          "true_negative": 10000,
+          "true_positive": 0,
+          "avg_errors": 37.264,
+          "avg_free": null
+        },
+        "true": {
+          "false_negative": 10000,
+          "false_positive": 0,
+          "true_negative": 10000,
+          "true_positive": 0,
+          "avg_errors": 37.2335,
+          "avg_free": null
+        }
+      }
+    }
+  }
+}

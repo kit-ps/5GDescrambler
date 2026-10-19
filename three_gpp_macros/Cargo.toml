@@ -1,0 +1,11 @@
+[package]
+name = "three_gpp_macros"
+version = "0.1.0"
+edition = "2024"
+
+[lib]
+proc-macro = true
+
+[dependencies]
+bit_macros = { path = "../bit_macros" }
+bit_types = { path = "../bit_types" }

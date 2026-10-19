@@ -1,0 +1,9 @@
+[package]
+name = "three_gpp"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+bit_macros = { path = "../bit_macros" }
+bit_types = { path = "../bit_types" }
+three_gpp_macros = { path = "../three_gpp_macros" }

@@ -1,0 +1,20 @@
+[workspace]
+resolver = "3"
+members = ["asn", "bit_macros", "bit_types", "descrambler", "descrambler_macros", "ldpc", "pdcch", "pdcch_macros", "phys", "phys_macros", "three_gpp"]
+
+[profile.dev.build-override]
+codegen-units = 1
+debug = 0
+incremental = false
+opt-level = 0
+
+[profile.release.build-override]
+codegen-units = 1
+debug = 0
+incremental = false
+opt-level = 0
+
+[profile.profiling]
+inherits = "release"
+debug = 1
+
