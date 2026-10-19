@@ -9,7 +9,7 @@ bit_macros = { path = "../bit_macros" }
 bit_types = { path = "../bit_types" }
 pdcch_macros = { path = "../pdcch_macros" }
 bytemuck = { version = "1.25", features = ["derive"] }
-zstd = "0.13"
+zstd = "0.14"
 
 [build-dependencies]
 three_gpp = { path = "../three_gpp" }
@@ -17,7 +17,7 @@ bit_macros = { path = "../bit_macros" }
 bit_types = { path = "../bit_types" }
 pdcch_macros = { path = "../pdcch_macros" }
 bytemuck = { version = "1.25", features = ["derive"] }
-zstd = "0.13"
+zstd = "0.14"
 
 [dev-dependencies]
 criterion = { version = "0.8", features = ["html_reports"] }
